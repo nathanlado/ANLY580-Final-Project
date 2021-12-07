@@ -1,0 +1,1613 @@
+Ability-to-pay principle
+The idea that taxes should be levied on a person according to how well that person can shoulder that burden.
+Absolute advantage
+The ability to produce more of a good or service than another producer using the same amount of resources as that producer.
+Absolute good
+A value that cannot be traded off against other things that are highly valued by individuals. Many moral or ethical laws are considered to be absolute goods by the supporters (or advocates) of such laws.
+Actual output (real GDP)
+The amount that an economy actually produces, as measured by real GDP.
+Adjustable-rate mortgage (ARM)
+A mortgage that permits the lender to periodically adjust the interest rate on the basis of changes in a specified index.
+Adjusted gross income
+Gross income minus specific adjustments.
+Administered rate
+An interest rate that is set directly rather than being influenced by the market forces of supply and demand.
+Adverse selection
+The tendency of insurance to be purchased by those most likely to make claims.
+Advertising
+Communication used by businesses to persuade consumers to buy a good or service.
+Agency debt
+Direct debt obligations issued by Fannie Mae, Freddie Mac, and the Federal Home Loan Banks, which are government-sponsored enterprises (GSEs).
+Aggregate demand curve
+A graphical depiction of the amounts of real output (gross domestic product [GDP]) that buyers collectively desire to purchase at each possible price level.
+Aggregate supply curve
+A graphical depiction of the amounts of real output (gross domestic product [GDP]) that businesses will choose to produce at each possible price level.
+Algorithm
+A process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.
+Allocation
+Ways in which to distribute goods, services or resources.
+Alt-A (Alternative A) mortgage
+A non-standard mortgage owed by a borrower characterized by a strong credit history but with fewer traditional features—for example, reduced documentation, low down payment, or non-owner occupier.
+Alternatives
+The different possibilities to choose from in a given situation.
+Annual percentage rate (APR)
+The percentage cost of credit on an annual basis and the total cost of credit to the consumer. APR combines the interest paid over the life of the loan and all fees that are paid up front.
+Annuity
+A series of fixed payments of the same amount paid at regular intervals (i.e., every week, month, or pay period) over a specified period of time.
+Annuity equation
+FV = (A/i)[(1+i)n - 1], where:
+FV = Future value is the amount that's not known but will be solved in the calculation. It's the amount wanted in the future.
+A = Annuity; annuities are the initial and subsequent payments (which must be the same amount).
+i = Interest rate, which has a great effect on future value. The interest rate in the formula must be written in decimal form, such as 0.03 instead of 3%.
+n = This is the number of periods, where "n" is the number of equal deposits that will be made.
+Appreciation
+An increase in value. Currency appreciation is an increase in the value of one currency relative to another.
+Appropriation act
+A law allowing federal programs or agencies to borrow money and make payments from the Treasury. Congress considers regular appropriation acts annually. These acts fund federal government operations for the coming fiscal year.
+Appropriations
+Legal authority provided by Congress to federal agencies to spend funds from the U.S. Treasury.
+Arbitrage
+The simultaneous purchase and sale of funds (or goods) in order to profit from a difference in price.
+Asset
+A resource with economic value that an individual, corporation, or country owns with the expectation that it will provide future benefits.
+Asset-Backed Commercial Paper Money Market Mutual Fund Liquidity Facility (AMLF)
+A Federal Reserve lending facility that provides funding to U.S. depository institutions and bank holding companies to finance their purchases of high-quality asset-backed commercial paper (ABCP) from money market mutual funds under certain conditions. The AMLF was closed on February 1, 2010.
+Asset-backed commercial paper (ABCP)
+Short-term debt that is typically limited to a fixed maturity of between 1 and 270 days. The proceeds of ABCP issuance are used primarily to purchase various assets, such as trade receivables, consumer debt receivables, auto and equipment loan leases, and collateralized debt obligations. (See also: Commercial paper.)
+Asset-backed security (ABS)
+In general, a money or capital market instrument, usually marketable (that is, transferable to third-parties in market transactions), that has specific financial assets generating the cash flow from which the instrument will be paid. (See also: Commercial mortgage-backed security and Residential mortgage-backed security.)
+Asymmetric information
+A situation in which one party to an economic transaction has less information than the other party.
+Auction
+A sale of property to the highest bidder.
+Automated teller machine (ATM) card
+A form of debit card used in a cash machine to access an account by using a code or personal identification number.
+Automatic stabilizers
+A standing policy that activates automatically without intervention, usually during a recession.
+Automatic transfer
+An online payment that is automatically deducted from the account balance on a recurring basis.
+Automation
+Automatically controlled operation of an apparatus, process, or system by mechanical or electronic devices that take the place of human labor.
+Balanced budget
+Occurs when the federal government's expenditures on programs equal the amount of tax revenue collected.
+Balance of payments
+A summary of all the transactions involving goods and services and investment that all individuals, firms, and the government of one nation makes with all of those in all other nations in a given time period.
+Balance of trade
+The difference between a country's total exports and total imports. Also known as "net exports".
+Balance sheet
+A statement of the assets and liabilities of a firm or individual at some given time.
+Bank account register
+A tool in which an account holder lists his or her initial balance in an account and then records all debits and credits in order to maintain an accurate record of account activity and an accurate balance.
+Bank failure
+Occurs when banks are unable to meet depositors' demands for their money.
+Bank holding company
+A company that owns, or has controlling interest in, one or more banks. The Federal Reserve is responsible for regulating and supervising bank holding companies, even if the bank owned by the holding company is under the primary supervision of a different federal agency.
+Bank panic
+Occurs when a bank run begins at one bank and spreads to others, causing people to lose confidence in banks.
+Bank reserves
+The amount of deposits not loaned out by banks.
+Bank run
+Occurs when many depositors rush to the bank to withdraw their money at the same time.
+Bankruptcy
+A legal process for declaring that a person is unable to pay his or her debts. The process may involve a court-supervised process of selling the bankrupt person's belongings to pay part of the debts owed to creditors.
+Bankruptcy trustee
+An independent person appointed to administer a bankruptcy case, collect assets, and pay creditors.
+Banks
+Businesses that accept deposits and make loans.
+Bank statement
+A statement given to account holders by a bank or credit union to keep them informed of all transactions they made during the statement period. These statements are sent on a regular basis or posted online.
+Bank suspensions
+Banks closed to the public because of financial difficulties.
+Barter
+Trading goods and services for other goods and services without using money.
+Beneficiary
+The person designated to receive benefits.
+Benefits
+Things favorable to a decision maker; rewards gained from an action/activity.
+Binary map
+A map with regions divided into two classes.
+Board of Governors
+A federal government agency that is the centralized component of the Federal Reserve System. These governors guide the policy actions of the Federal Reserve System.
+Bond
+A certificate of indebtedness issued by a government or corporation.
+Bond yield
+The average return from owning a bond. It depends on the price paid for the bond, its coupon payments, and time to maturity.
+Boom
+A period characterized by sustained increases in several economic indicators—for example, output, investment, and employment.
+Borrowing
+Taking money with a promise to repay the money in the future.
+Boycott
+A method of protest where people show a business that they are angry by refusing to buy the goods or services it produces.
+Budget
+An itemized summary of probable income and expenses for a given period. A budget is a plan for managing income, spending, and saving during a given period of time.
+Budget (elementary)
+A plan for keeping track of your money.
+Budget deficit
+Government expenditures exceed revenues.
+Budget functions
+A spending classifications system used for federal budgeting that identifies a specific national need (e.g., national defense or health); includes sub functions.
+Budget surplus
+Government collections (taxes and fees) exceed government spending (expenditures) for a given period, usually a fiscal year.
+Bureau of Labor Statistics (BLS)
+A research agency of the U.S. Department of Labor that compiles statistics on employment, unemployment, and other economic data.
+Business (elementary)
+An organization that produces the goods and services that are sold to consumers in the market.
+Business cycle
+The fluctuating levels of economic activity in an economy over a period of time measured from the beginning of one recession to the beginning of the next.
+Capacity
+A borrower's ability to repay debt.
+Capital (financial)
+The funds invested in a bank that are available to absorb loan losses or other problems and therefore protect depositors. Capital includes all equity and some types of debt. Bank regulators have developed two definitions of capital for supervisory purposes: Tier 1 capital can absorb losses while a bank continues operating. Tier 2 capital may be of limited life and may carry an interest obligation or other characteristics of a debt obligation; therefore it provides less protection to depositors than tier 1 capital.
+Capital account
+That part of a country’s balance of payments that records movements of capital into and out of a country.
+Capital gains
+A profit from the sale of financial investments.
+Capital goods
+See Capital resources.
+Capital investment
+The purchase of physical capital goods (e.g., buildings, tools and equipment) that are used to produce goods and services.
+Capital ratio (banking system)
+Total assets minus total liabilities as a percentage of total assets.
+Capital resources
+Goods that have been produced and are used to produce other goods and services. They are used over and over again in the production process. Also called capital goods and physical capital.
+Capital resources (elementary)
+Goods that are made by people and used to produce other goods and services. Examples of capital goods are tools, machines, and buildings.
+Card-not-present (CNP) transaction
+A card transaction in which the card itself is not physically present. The cardholder provides information including the card number, expiration date, name of cardholder, and security code to a merchant.
+Card-present (CP) transaction
+A face-to-face card transaction in which the card is physically swiped or inserted into a card reader terminal.
+Card reader
+A device designed to read or decode the encoding on plastic cards.
+Cash advance
+A short-term loan from a bank or alternative lender that features fast approval and quick funding, but it often comes with higher fees than other options.
+Cash flow
+Income (dollars coming in, usually from working) minus expenses (dollars going out, usually to buy goods and services).
+Central bank
+An institution that oversees and regulates the banking system and quantity of money in the economy.
+Certificate of deposit (CD)
+A savings alternative in which money is left on deposit for a stated period of time to earn a specific interest rate.
+Chained 2012 dollars
+A dollar measure that is adjusted for price changes occurring since 2012; measuring expenditures in chained dollars allows comparison of dollar amounts from different years.
+Chapter 11 bankruptcy protection
+The chapter of the Bankruptcy Code providing (generally) for reorganization, usually involving a corporation or partnership. A Chapter 11 debtor usually proposes a plan of reorganization to keep its business alive and pay creditors over time. Business owners and individuals can also seek relief in Chapter 11.
+Chapter 7
+A type of bankruptcy that requires individuals unable to pay their debts to sell his or her assets to pay creditors. Also known as “liquidation” or “straight” bankruptcy.
+Character
+A borrower's reputation for paying bills and debts based on past behavior.
+Characteristics of money
+Important features money should have. Money should be portable, durable, divisible, generally acceptable, relatively scarce, and uniform.
+Check
+A printed form directing a bank to withdraw money from an account and pay it to another account.
+Checkable deposits
+Deposits in accounts against which checks can be written.
+Check-cashing services
+Businesses that provide services such as cashing all types of checks, including payroll, insurance, tax refund, settlement, and government and Social Security payments. These businesses may also provide other services, such as payday loans, money orders, and money wires.
+Checking account
+An account held at a bank or credit union in which account owners deposit funds. Account owners have the privilege of writing checks on their accounts and are able to use ATM cards and debit cards to access funds.
+Choice
+A decision made between two or more possibilities or alternatives.
+Choropleth map
+A map that uses shading, color, or symbols to convey a quantity or property for an area.
+Circular flow of economy (elementary)
+Exchange of resources, goods, and money.
+Citation (of data)
+A short description of data, including their author, title, distributor, persistent identifier, and date.
+Clearing banks
+Financial institutions that clear trades in government securities, agency securities, and other money market instruments for non-bank dealers.
+Clearinghouse
+An institution where mutual claims and accounts are settled, as between banks.
+Closed economy
+An economy that does not interact with other economies.
+Coase theorem
+Coase theorem says that externalities can be resolved efficiently if the parties can negotiate with low bargaining costs and that the result does not depend on who has property rights.
+Coin
+Money, usually minted from some combination of metals.
+Coincidence of wants
+Each participant in an exchange is willing to trade what he or she has in exchange for what the other participant is willing to trade.
+Collateral
+Property required by a lender and offered by a borrower as a guarantee of payment on a loan. Also, a borrower's savings, investments, or the value of the asset purchased that can be seized if the borrower fails to repay a debt.
+Collateral (elementary)
+Something of value that a bank is able to keep if a borrower fails to repay a loan.
+Collateralized obligations (CDO)
+Collateralized debt obligation: A security that represents a claim on cash flows generated by a pool of debt obligations.
+Collateralized loan obligation (CLO): A security that represents a claim on cash flows generated by a pool of loans.
+Collateralized mortgage obligation (CMO): A security that represents a claim on cash flows generated by a pool of mortgages.
+Collections (government)
+Government income from taxes imposed on businesses and individuals and fees assessed on activities and services provided by the government.
+Collision insurance
+Vehicle insurance that provides coverage for repair or replacement when damage is due to an accident with another vehicle or object.
+Collusion
+Collusion is an illegal agreement among firms to divide the market, set prices, or limit production.
+Command economy
+An economic system where the government owns the resources and decides what goods and services are produced, how they are produced, and who gets them. The government decides the prices of goods, services, and resources.
+Command economy (elementary)
+An economic system where the government owns the resources and decides what goods and services are produced. The government also decides on price.
+Commercial Bank
+Businesses that accept deposits and make loans.
+Commercial Paper Funding Facility (CPFF)
+A Federal Reserve lending facility designed to provide a liquidity backstop to U.S. issuers of commercial paper. The CPFF is intended to improve liquidity in short-term funding markets and thereby contribute to greater availability of credit for businesses and households. The CPFF was discontinued February 1, 2010.
+Commercial mortgage-backed security (CMBS)
+A security that relies for payment on cash flows generated by a pool of commercial mortgage debt obligations. (See also: Asset-backed security and Residential mortgage-backed security)
+Commercial paper
+A short-term, unsecured promissory note issued by an industrial or commercial firm, a financial company, or a foreign government. Typically, maturity is 90 to 180 days.
+Common stock
+A share of ownership of public corporations; stockholders may vote on matters affecting the company.
+Comparative advantage
+The ability to produce at a lower opportunity cost than another producer.
+Competition
+Competition takes place in markets. Sellers compete with other sellers for sales to consumers. Sellers compete on the basis of price, product quality, customer service, product design and variety, and advertising. Buyers compete with other consumers for goods and services. This often results in higher prices.
+Competition (elementary)
+When there are many buyers and sellers of a product. Sellers compete with other sellers to sell products to buyers. Buyers compete with other buyers for goods and services.
+Competitive markets
+Markets in which there are many buyers and many sellers so that each has a negligible impact on market prices.
+Complement (resources)
+Productive inputs that are used jointly with other inputs in the production process.
+Complements (elementary)
+Goods that are used together, such as paper and markers.
+Compound interest
+Interest computed on the sum of the original principal and accrued interest.
+Comprehensive insurance
+Vehicle insurance that provides coverage for theft or damage that is not from a collision.
+Congress
+The legislative body of the U.S. government, consisting of the Senate and the House of Representatives.
+Consequences
+The results of an action. They can be intended or unintended.
+Conservatorship
+A conservatorship is the legal process (for entities that are not eligible for Bankruptcy Court reorganization) in which a person or entity is appointed to establish control and oversight of a company to put it in a sound and solvent condition. In a conservatorship, the powers of the company’s directors, officers, and shareholders are transferred to the designated conservator.
+Consumer confidence
+A measure of how consumers feel about the economy, considered an indicator of consumers' spending and saving decisions.
+Consumer goods
+Goods and services that are used for current consumption.
+Consumer price index (CPI)
+A measure of the average change over time in the prices paid by urban consumers for a market basket of consumer goods and services.
+Consumers
+People who buy goods and services to satisfy their wants.
+Consumer sovereignty
+The ability to influence what is produced and consumed in an economy through consumption activities.
+Consumption
+Occurs when people use goods and services.
+Contract
+An exchange, promise, or agreement between two parties that is enforceable by law. For example, a car buyer agrees to pay the amount financed at an agreed-upon interest rate for the length of the contract.
+Contraction
+A period when real GDP declines; a period of economic decline.
+Contractionary monetary policy
+Actions taken by the Federal Reserve to increase interest rates and thereby discourage spending by consumers and businesses.
+Co-payment (co-pay)
+A set dollar amount the customer pays, with the insurance company paying the difference.
+Core Consumer Price Index
+The consumer price index (CPI) excluding food and energy.
+Core inflation
+See Core Consumer Price Index.
+Corporation
+A company owned by shareholders.
+Cost of living
+The amount of income needed to achieve a given living standard.
+Costs
+Things unfavorable to a decisionmaker.
+Costs of production
+The amount producers pay for the resources used to produce a product.
+Coupon (of bonds)
+The regular payments received by the buyer of a bond.
+Coverage
+How much risk or liability is protected with an insurance policy.
+Credit
+The granting of money or something else of value in exchange for a promise of future repayment.
+Credit card
+Cards that represent an agreement between a lenderthe institution issuing the cardand the cardholder. Credit cards may be used repeatedly to buy products or services or to borrow money on credit. Credit cards are issued by banks, savings and loan associations, retail stores, and other businesses.
+Credit counseling service
+A service for consumers with credit problems; offers counseling about how to work out debt obligations.
+Credit default swap (CDS)
+A type of derivative that allows a buyer to hedge against default of a counterparty. A CDS buyer agrees to pay a counterparty (the seller) a periodic premium in return for insurance against a “credit event” such as a default on a specified, underlying obligation.
+Credit history
+A person's payment activity over a period of time.
+Creditor
+A person, financial institution, or other business that lends money.
+Credit rating agencies
+Firms that rate the quality of bonds and other financial securities. These ratings are used by investors to assess the probability of default. Well-known rating agencies include Moody’s, Standard & Poor’s, and Fitch Ratings. Firms in this business must meet standards enforced by the Securities and Exchange Commission.
+Credit report
+A loan and bill payment history kept by a credit bureau and used by financial institutions and other potential creditors to determine the likelihood that a future debt will be repaid.
+Credit reporting bureau
+An organization that compiles credit information on individuals and businesses and makes it available to businesses for a fee.
+Credit responsibilities
+Refers to the actions or behaviors in which people should engage when they use credit.
+Credit rights
+Refers to the protections put in place by law to help people obtain and maintain credit.
+Credits
+Additions or deposits to an account. In a bank account register, credits are added to the balance.
+Credit score
+A number based on information in a credit report, which indicates a person's credit risk.
+Credit union
+A nonprofit financial institution that is owned by its members.
+Criteria
+A set of standards to consider when choosing among alternatives.
+Criteria (elementary)
+Things that are really important to think about when making a decision.
+Crowding out
+A condition where government enters the loanable funds market and thereby increases the interest rate beyond what is feasible for private sector borrowing.
+Currency
+Money, usually made from some type of paper-like material.
+Current account
+The section of a nation’s balance of payments that records its exports and imports of goods and services, its net investment income, and its net transfers.
+Current population survey
+A statistical survey carried out by the U.S. Bureau of Labor Statistics.
+Cyclical unemployment
+Unemployment associated with recessions in the business cycle.
+Debit card
+A plastic card similar to a credit card that allows money to be withdrawn or payments made directly from the holder's bank account.
+Debits
+Charges to or withdrawals from an account. In a bank account register, debits are subtracted from the balance.
+Debt
+Money owed in exchange for loans or for goods or services purchased with credit.
+Debt (elementary)
+The money a person owes when they borrow.
+Debtor
+A person or organization that owes an amount money.
+Decisionmaking
+Deciding among choices (alternatives or options).
+Decisionmaking grid
+A table used to evaluate alternatives based on criteria for the purpose of making a decision.
+Deductible
+An amount you must pay for expenses before the insurance company pays. The deductible amount is specified by the terms of the insurance policy.
+Default
+Default is the failure to promptly pay interest or principal when due.
+Deferral
+Postponed until a later time.
+Defined-benefit retirement funds
+Money for retirement maintained by the government for government employees.
+Deflation
+A general, sustained downward movement of prices for goods and services in an economy.
+Delinquency rate
+In general, the delinquency rate refers to a percentage determined by dividing the number of loans that have delinquent payments by the number of total loans.
+Delinquent
+Failing to make timely payments under a loan or other credit agreement.
+Demand
+The quantity of a good or service that buyers are willing and able to buy at all possible prices during a certain time period.
+Demand curve
+The graphic representation of the quantity of a good or service that buyers are willing and able to buy at all possible prices during a certain time period.
+Demographic data
+Statistical data about the characteristics of a population. Examples include age, gender, and income of the people within a population.
+Deposit insurance
+Federal insurance of deposits received at an insured bank or thrift, including deposits in checking, negotiable orders of withdrawal (NOW), and savings accounts; money market deposit accounts; and time deposits such as certificates of deposit (CDs).
+Depository institution
+A financial institution such as a savings bank, commercial bank, savings and loan association, or credit union that is legally allowed to accept monetary deposits from consumers.
+Depreciation
+A decrease in value. Currency depreciation is a decrease in the value of one currency relative to another.
+Depression
+A severe and long-lasting economic downturn that is worse and deeper than a recession; a severe reduction in gross domestic product (GDP).
+Determinants of demand
+Factors that cause the demand curve to shift, such as changes in consumer income, consumer tastes and preferences, prices of related goods, number of buyers in the market, and consumer expectations.
+Determinants of supply
+Factors that cause the supply curve to shift, such as changes in input prices, taxes or subsidies, technology, producer expectations, and the number of sellers.
+Digital object identifier (DOI)
+An internet address that allows the reader of a data citation to access the data directly from the source.
+Diminishing marginal utility
+Occurs when marginal utility becomes smaller as a person consumes more units of a product. As someone consumes additional units of a product, the marginal utility derived from each additional unit declines.
+Diminishing returns
+Each additional unit of a good adds less satisfaction than the one before it.
+Direct deposit
+An electronic transaction in which money is deposited directly into a payee's bank account from a payer's bank account.
+Dischargeable debt
+Debts (liabilities) that can be eliminated (wiped out) through a bankruptcy proceeding.
+Discount rate
+The interest rate charged by the Federal Reserve to banks for loans obtained through the Fed's discount window.
+Discount window
+Federal Reserve lending to depository institutions to support the liquidity and stability of the banking system and the effective implementation of monetary policy.
+Discouraged worker
+Someone who is not working and is not looking for work because of a belief that there are no jobs available to him or her.
+Discretionary income
+The portion of personal income available for spending after taxes and basic essentials have been deducted.
+Discretionary spending
+Government spending authorized by Congress on an annual basis.
+Disinflation
+A decrease in the inflation rate or a slowdown in the upward movement of prices for goods and services in the economy.
+Disposable income
+The amount of a person's paycheck that is available to spend or save.
+Dissaving
+To consume more than income; essentially, the opposite of saving.
+Diversification
+Investment in various financial instruments in order to reduce risk.
+Dividend
+A share of a company’s net profits paid to stockholders.
+Divisible
+Easily divided into smaller amounts.
+Division of labor
+An approach to completing a complex task that breaks the project into a number of smaller, simpler tasks, which are assigned to individuals who generally perform only these duties.
+Division of labor (elementary)
+Having people complete one small part of a larger task when producing a good or service.
+Domestic
+Inside a particular country.
+Double coincidence of wants
+Each participant in an exchange is willing to trade what he or she has in exchange for what the other participant is willing to trade.
+Dow Jones Industrial Average (DJIA)
+An index consisting of stock prices of 30 companies in various industries reflecting U.S. economic activity.
+Down payment
+A sum of money put toward the purchase price to reduce the amount of money borrowed.
+Dual mandate
+The Federal Reserve's responsibility to use monetary policy to promote maximum employment and stable prices.
+Durable
+Something that is long lasting.
+EMV chip specifications
+Specifications developed by Europay, MasterCard, and Visa defining requirements for using chip cards worldwide.
+Earned income
+Earned income is the money you get for the work you do. There are two ways to get earned income: You work for someone who pays you or you own or run a business or farm.
+Earned income tax credit
+A refundable federal tax credit for low-income working people designed to reduce poverty and encourage labor force participation.
+Earnings
+Money or income received in exchange for labor or services.
+Economic efficiency
+Answers the question, “How well are productive resources (land, labor, capital, and entrepreneurial ability) being allocated?” Economic efficiency involves both producing the goods and services that people want and using inputs in a way that keeps production costs as low as possible.
+Economic equality
+A more equal distribution of goods and services to citizens. Also known as economic equity.
+Economic equity
+A more equal distribution of goods and services to citizens. Also known as economic equality.
+Economic freedom
+Answers the question, “Do I get to decide where to live, what job to have, how to spend and save my money, and so on?” Economic freedom means allowing students to choose career paths, workers to change jobs and join unions, consumers to choose how to spend and save their money, people to start businesses and close businesses, people to travel as they wish to, and so on.
+Economic growth
+A sustained rise over time in a nation's production of goods and services.
+Economic indicator
+Statistical data used to determine the health of the economy.
+Economic models
+Simple depictions of complex ideas.
+Economic security
+Answers the question, “How do we protect people from risks in society?” Economic security means protecting consumers, producers, and resource owners from risks that exist in society. Each society must decide from which uncertainties individuals can and should be protected, and whether individuals, employers, or government (taxpayers) should provide or pay for this. These risks might include unemployment, disability, identify theft or fraud, destruction of property by natural disasters, financial failure for individuals or businesses, and so on.
+Economic stability
+Answers the question, “How do we keep the economy stable so that people feel secure and can plan?” Economic stability means maintaining stable prices and full employment and keeping economic growth reasonably smooth and steady. Price stability means avoiding inflation or deflation. Full employment occurs when an economy’s scarce resources, especially labor, are fully utilized.
+Economic wants
+Desires that can be satisfied by consuming goods and services. Also known as wants.
+Economies of scale
+Factors that cause a producer’s average cost per unit to fall as output rises.
+Economy
+A system of production and distribution of resources, goods, and services.
+Educational attainment
+Highest level of education a student completes (high school, college, graduate).
+Efficient market hypothesis (EMH)
+The theory that the current price of a stock in a corporation reflects all relevant information about the stock’s current and future earnings prospects.
+Elastic currency
+Currency whose supply can be increased or decreased to meet the demands of the economy, and used by a central bank to provide financial stability and achieve economic goals.
+Elastic demand
+The type of demand that exists when the percentage change in quantity demanded is greater than the percentage change in price; that is, consumers are very sensitive to a change in the price of a good or service.
+Elasticity of demand
+The ratio of the percentage change in quantity demanded of a good or service to the percentage change in its price; a measure of the responsiveness of buyers to a change in the price of a good or service.
+Electronic benefit transfer (EBT)
+An electronic system that allows a recipient to receive financial benefits from the government via a debit card. The recipient uses the EBT card to make purchases from retailers.
+Elements of a contract
+Competent parties, consideration, and mutual agreement are the elements of a contract that must be present to make the contract legal and enforceable. Competent parties are individuals involved in a contract who must be able to understand the conditions of the contract. Consideration refers to the fact that each party of a contract gives up something in exchange for what the other party is providing. Mutual agreement means that each party to the contract must be clear about the essential details, rights, and obligations of the contract.
+Embargo
+A government order that limits or prohibits trade with a particular country or group of countries.
+Emissions tax
+Firms can pollute as much as they would like as long as they pay the tax for each unit of pollution.
+Employed
+People 16 years and older who have jobs.
+Employment rate
+The percentage of the labor force that is employed.
+Energy
+Fuel used to power the economy. Energy is harvested from nonrenewable resources such as fossil fuels (natural gas, coal, oil) or renewable resources such as solar, wind, or geothermal heat.
+Entrepreneurs
+Individuals who are willing to take risks in order to develop new products and start new business. They recognize opportunities, enjoy working for themselves, and accept challenges.
+Entrepreneurship
+A characteristic of people who assume the risk of organizing productive resources to produce goods and services.
+Equal interval
+When data are divided into equal-size, ranges or intervals, the method of categorizing the data.
+Equilibrium price
+The price at which quantity supplied and quantity demanded are equal. The point at which the supply and demand curves intersect.
+Equilibrium wage
+The wage at which the quantity of labor supplied and quantity of labor demanded are equal.
+Equity
+The difference between the value of an asset and what is owed on the asset.
+Excess reserves
+Amount of funds held by a depository institution in its account at a Federal Reserve Bank in excess of its required reserve balance and its contractual clearing balance.
+Exchange
+Trading goods and services with people for other goods and services or for money.
+Exchange Stabilization Fund (ESF)
+A U.S. Treasury Department fund that typically holds three types of assets: U.S. dollars, foreign currencies, and special drawing rights (SDRs). The ESF can be used to purchase or sell foreign currencies, to hold U.S. foreign exchange and SDR assets, and to provide financing to foreign governments. All operations of the ESF require the explicit authorization of the Secretary of the Treasury.
+Exchange rate
+The price of one country's currency in terms of another country's currency.
+Exchanges (noun)
+Institutions established for buyers and sellers to trade goods, services, resources, and/or money.
+Excludability
+The property of a good or service whereby the seller can keep nonbuyers from obtaining the good or service.
+Exempt (from withholding)
+Free from withholding of federal income tax. A person must meet certain income, tax liability, and dependency criteria. This does not exempta person from other kinds of tax withholding, such as the Social Security tax.
+Exemption
+Amount that taxpayers can claim for themselves, their spouses, and eligible dependents. There are two types of exemptions: personal and dependency.Each exemption reduces the income subject to tax. The exemption amount is a set amount that changes from year to year.
+Exempt property
+Property a debtor is allowed to keep when filing for bankruptcy.
+Expansion
+A period when real GDP increases; a period of economic growth.
+Expansionary monetary policy
+Actions taken by the Federal Reserve to lower interest rates and thereby encourage spending by consumers and businesses.
+Expected rate of return
+The amount you anticipate receiving on an investment based on the probable rates of return (often based on how the asset performed in the past).
+Expenditures
+Money spent to buy goods and services.
+Expenses
+The costs people incur for goods and services. Expenses are often categorized as fixed, variable, and periodic. Fixed expenses are those that occur each month in a regular amount, such as rent, car payments, and mortgage payments. Variable expenses are those that change from one time period to the next, such as food, clothing, gasoline, and entertainment. Periodic expenses are those that occur several times a year, such as car insurance and life insurance payments.
+Expenses (elementary)
+Money spent on goods and services.
+Explicit cost
+A cost that involves actually laying out money. A direct expense that a business incurs, such as rent, salaries, wages, or utility bills.
+Exports
+Resources, goods, and services that are produced domestically but sold abroad. Exports are sent into a region from outside that region.
+External costs
+Happen when a person does something that benefits himself or herself that unintentionally makes another person worse off.
+Externality
+A cost or benefit to a third party arising from a transaction between two parties unrelated to the third party.
+FDIC loss-sharing arrangement
+Loss sharing is a feature that the Federal Deposit Insurance Corporation (FDIC) first introduced into selected purchase and assumption (P&A) transactions used to resolve failed insured depository institutions in 1991. The original goals of loss sharing were to (1) sell as many assets as possible to the acquiring bank and (2) have the nonperforming assets managed and collected by the acquiring bank in a manner that aligned the interests and incentives of the acquiring bank and the FDIC. Under loss sharing, the FDIC agrees to absorb a significant portion of the loss—typically 80 percent—on a specified pool of assets while offering even greater loss protection in the event of financial catastrophe; the acquiring bank is liable for the remaining portion of the loss.
+FICO credit score
+The most widely used credit score. FICO stands for Fair Isaac Corp., the company that developed this system of credit evaluation. FICO scores vary but generally range between 500 and 850. The higher the score, the more likely a borrower is to repay loans/debts.
+Face value (of bonds)
+The dollar amount paid to the bond holder when a bond matures.
+Facility
+A formal financial assistance program offered by a lending institution to help a targeted set of counterparties (those eligible to borrow) with funding needs. The Federal Reserve has permanent facilities (like the discount window) and temporary facilities (like those implemented during the Financial Crisis of 2007-09 and the COVID-19 pandemic).
+Factors of production
+The natural, human, and capital resources that are available to make goods and services. Also known as productive resources.
+Fannie Mae
+Fannie Mae is a government-sponsored enterprise (GSE) established as a federal agency in 1938 and chartered by Congress as a private company in 1968. Fannie Mae’s chartered mission is to provide liquidity and stability to the U.S. housing and mortgage markets by operating in the U.S. secondary mortgage market. The full legal name for Fannie Mae is the Federal National Mortgage Association.
+Federal Deposit Insurance Corp. (FDIC)
+A U.S. government agency that insures deposits in banks and thrift institutions and supervises state-chartered, non-Federal Reserve member banks.
+Federal Home Loan Banks
+A system of 12 regional banks with a primary mission to meet credit and financial service needs of local communities. Chartered by Congress in 1932 to promote a healthy mortgage finance system. Home loan banks are privately owned, wholesale banks without publicly traded stock.
+Federal Housing Administration (FHA)
+An agency within the U.S. Department of Housing and Urban Development (HUD) that insures mortgages and loans made by private lenders.
+Federal Housing Finance Agency
+An independent regulatory agency of the executive branch of the U.S. government that regulates the 12 Federal Home Loan Banks, Fannie Mae, and Freddie Mac.
+Federal Insurance Contributions Act (FICA) tax
+A tax or required contribution that most workers and employers pay. FICA is a payroll tax used to fund Social Security and Medicare.
+Federal Open Market Committee (FOMC)
+A Committee created by law that consists of the seven members of the Board of Governors; the president of the Federal Reserve Bank of New York; and, on a rotating basis, the presidents of four other Reserve Banks. Nonvoting Reserve Bank presidents also participate in Committee deliberations and discussion.
+Federal Reserve Act
+The 1913 act of Congress establishing the Federal Reserve System.
+Federal Reserve Bank
+One of 12 regional Banks providing services to commercial banks, serving as fiscal agents for the U.S. government, and conducting economic research on its region and the nation.
+Federal Reserve Districts
+Twelve regions in the United States that are represented by a reserve bank.
+Federal Reserve System
+The central bank system of the United States.
+Federal Reserve limited liability companies
+Companies (Maiden Lane) formed by the Federal Reserve Bank of New York under the authority of Section 13(3) of the Federal Reserve Act to acquire certain assets of Bear Stearns, AIG and AIG subsidiaries and to manage those assets to minimize disruption to financial markets.
+Federal Trade Commission
+An independent agency of the United States federal government that maintains fair and free competition, enforces federal antitrust laws, and educates the public about identity theft.
+Federal funds rate
+The interest rate at which a depository institution lends funds that are immediately available to another depository institution overnight.
+Federal income tax
+The federal government levies a tax on personal income. The federal income tax provides for national programs such as defense, foreign affairs, law enforcement, and interest on the national debt.
+Federal student loan
+A loan provided by the government to postsecondary students and their parents to assist in paying for education.
+Fees
+Money charged to review your application for credit or to service your credit account, such as maintenance fees or late fees. Banks often charge fees for servicing bank accounts, including overdraft fees and charges for using a non-bank ATM.
+Fiat money
+A substance or device used as money, having no intrinsic value (no value of its own), or representational value (not representing anything of value, such as gold).
+File a return
+To mail or transmit a taxpayer's information in specified format about income and tax liability. The return can be filed on paper, electronically, or by telephone to an IRS service center.
+Final goods and services
+Goods and services sold to end users and have been purchased for final use and not for resale or further processing.
+Financial asset
+A contract that states the conditions under which one party (a person or institution) promises to pay another party cash at some point in the future.
+Financial crisis
+An event characterized by a sudden, widespread demand for safe liquid assets that prevents the financial system, including banks and other financial institutions, from operating normally.
+Financial institution
+A business that provides services to make deposits to or withdrawals from an account, take out a loan, invest, or exchange currency.
+Financial intermediary
+A business that acts as the middleman between two parties in a financial transaction. Examples include commercial banks, investment banks, mutual funds and pension funds.
+Financial investment
+Placing money in a savings account or in any number of financial assets, such as stocks, bonds, or mutual funds, with the intention of making a financial gain.
+Financial literacy
+Having knowledge of financial matters and applying that knowledge to one's life.
+Financial system
+The set of institutions, such as banks, insurance companies, and stock exchanges, that permit the exchange of funds.
+Fiscal agent
+A person or organization serving as another's financial representative.
+Fiscal policy
+Spending and taxing policies of the federal government to influence the economy.
+Fixed costs
+Business costs, such as rent, that are constant whatever the quantity of goods or services the business produces.
+Fixed-rate mortgage (FRM)
+A mortgage loan in which the interest rate does not change during the entire term.
+Flat tax
+A tax system in which all levels of income are taxed at the same rate.
+Flexible exchange rate
+A system in which supply and demand determine exchange rates.
+Food stamps
+The Supplemental Nutrition Assistance Program (SNAP) allowing low-income individuals to buy nutritious food and health-care products.
+Forbearance
+The temporary suspension or reduction of monthly loan payments, usually up to one year.
+Foreclose
+To take possession of a mortgaged property as a result of the borrower's failure to make mortgage payments.
+Foreclosure
+The legal process by which a property that is mortgaged as security for a loan may be sold and the proceeds of the sale applied to the mortgage debt. A foreclosure can occur when the loan becomes delinquent because payments have not been made or when the borrower is in default for a reason other than the failure to make timely mortgage payments.
+Foreign exchange market
+A market in which one country’s currency can be used to purchase another country’s currency.
+Form 1040
+The standard Internal Revenue Service (IRS) form that taxpayers use to file their annual income tax returns.
+Four-firm concentration ratio
+The market share held by the four largest firms in an industry. Larger concentration ratios generally indicate less competition. The maximum value for concentration ratios is 100%.
+Fractile interval
+When data are divided into intervals so that there is the same number, or nearly the same number, of data points in each interval, the method of categorizing the data.
+Fractional reserve banking system
+A banking system in which the amount of reserves that banks hold is less than the value of their customers' deposits.
+Fraud
+Intentional and deliberate misrepresentation of information in violation of laws and regulations.
+Freddie Mac
+Freddie Mac is a government-sponsored enterprise (GSE) chartered by Congress in 1970 to provide liquidity, stability, and affordability to the housing market. Like Fannie Mae, Freddie Mac operates in the secondary mortgage market. The full legal name for Freddie Mac is the Federal Home Loan Mortgage Corporation.
+Free rider
+A person who receives benefits from something for which he or she doesn’t pay.
+Frequency
+The intervals between occurrences. In macroeconomics, it is common for data to be released monthly, quarterly, semiannually, or annually.
+Frictional unemployment
+Unemployment that results when people are new to the job market (for example, recent graduates) or are transitioning from one job to another.
+Full employment
+The lowest possible unemployment rate in a growing economy with all factors of production used as efficiently as possible.
+Full-time employment
+Although defined by the U.S. Bureau of Labor Statistics as employment of 35 hours or more in a week, the matter of "full-time employment" is generally determined by the employer.
+Functions of money
+Activities that can be carried out through the use of money. Activities include medium of exchange, unit of account, and store of value.
+Future value
+The value of an asset or cash at a specified date in the future that is equal in value to a specified sum today.
+Future value equation
+FV=PV (1+i)n, where:
+FV = Future value is the amount that's not known but will be solved in the calculation. It's the amount wanted in the future.
+PV = Present value, which is money currently held or the amount of money that will be earning interest.
+i = Interest rate, which has a great effect on future value. The interest rate in this formula must be written in decimal form, such as 0.03 instead of 3%.
+n = This is the number of periods (such as years) money is saved and interest is applied. If money were to be saved for 3, 5, 7 or 10 years, then 3, 5,7, or 10 would be "n" in the calculation.
+Gainful employment
+A job, especially one taken after graduation, that is suited to the ability and potentiality of the one employed.
+Generally acceptable (money)
+An item that people will take as payment for their work or as payment for goods and services.
+General-purpose reloadable (GPR) prepaid card
+A prepaid card that is branded as a “general-purpose” reloadable (GPR) card. A prepaid GPR card allows consumers to reload the card with additional funds and even set up direct deposits to the card.
+Gini coefficient
+A statistical measure of income inequality that ranges from 0 to 1. A Gini coefficient of 1 indicates perfect income inequality, where one person earns all the income and the rest of the population earns none. Conversely, a Gini coefficient of 0 indicates that total income is equally distributed among the entire population. A Gini coefficient, at a particular point in time, can be calculated graphically by finding the area between the line representing a country's income distribution (known as the Lorenz curve) and a line of perfect income equality.
+Gold standard
+The ability to exchange dollars for gold at a fixed price.
+Goods
+Objects that satisfy people's wants.
+Government debt
+The sum of accumulated budget deficits. Also known as national debt.
+Government expenditures
+Purchases by government of goods and services, as well as transfer payments made by government. Government expenditures are part of a government’s budget.
+Government securities
+Bonds, notes, and other debt instruments sold by a government to finance its expenditures.
+Government securities auction
+A sale of government securities in which competitive bidding determines their yield.
+Government spending
+Spending by all levels of government on goods and services. This includes, for example, spending on the military, schools, and highways. Government spending is a component of gross domestic product and does not include transfer payments.
+Government-sponsored enterprises (GSEs)
+Enterprises that were established and chartered by the federal government for public policy purposes. GSEs include the Federal Home Loan Banks, the Agricultural Credit Bank and Farm Credit Banks, and the Federal Agricultural Mortgage Corporation. With the exception of Fannie Mae and Freddie Mac, which were taken into conservatorship by the federal government on September 7, 2008, GSEs are private companies and their securities are not backed by the full faith and credit of the federal government.
+Gross domestic product (GDP)
+The total market value, expressed in dollars, of all final goods and services produced in an economy in a given year.
+Gross income
+The total amount earned before any adjustments are subtracted.
+Gross pay
+The amount people earn per pay period before any deductions or taxes are paid.
+Gross private investment
+Spending by businesses on machinery, factories, equipment, tools, and construction of new buildings.
+Hard skills
+Specific, teachable abilities such as math, reading, writing, typing and so on.
+Health insurance
+Insurance that pays for medical and surgical expenses incurred by the insured.
+Hedge fund
+Although there is no precise legal definition, the term "hedge fund" generally refers to a pooled investment vehicle that is privately organized, administered by a professional investment manager, and not widely available to the public. The assets, investment strategies, and risk profiles of funds that meet this broad definition are quite diverse. In no sense are hedge funds an "asset class" such as stocks, bonds, commodities, or real estate. While some hedge funds pursue investment strategies similar to those pursued by private equity funds, the strategies of the sector as a whole are quite varied. Some hedge funds are highly leveraged, while many use little or no leverage.
+Home Owners Equity Protection Act (HOEPA)
+A 1994 amendment to HMDA that provides certain protections to mortgage borrowers. These include protecting consumers from unfair, abusive, or deceptive mortgage lending and servicing practices, ensuring that mortgage advertisements provide accurate and balanced information, and providing consumers with transaction-specific disclosures early enough to use while shopping for a mortgage.
+Homeowner's equity
+The owner's interest in a property, calculated as the current fair market value of the property less the amount of existing liens. The appraised, or carrying value, of a property minus the amount of existing liens.
+Housing market
+The market for buying homes. Housing is often an indicator for the overall health of the economy.
+Human capital
+The knowledge and skills that people obtain through education, experience, and training.
+Human resources
+The quantity and quality of human effort directed toward producing goods and services. Also known as labor.
+Human resources (elementary)
+People who do mental and/or physical work to produce goods and services.
+Hyperinflation
+A very rapid rise in the overall price level; an extremely high rate of inflation.
+IRA (individual retirement account)
+A retirement account that allows individuals to direct pretax or after-tax income, up to specific annual limits, toward investments that can grow.
+Identity theft
+A form of stealing that results in someone gaining access to another person's personal information (such as name, address, driver's license number, credit card numbers, date of birth, birthplace, or Social Security number) to commit all or any of the following crimes: gaining access to bank accounts to steal money, making purchases with credit or debit cards, opening credit, or engaging in other criminal behavior.
+Implicit cost
+An indirect cost that does not require an outlay of money; it is measured by the value, in dollar terms, of forgone benefits.
+Imports
+Resources, goods, and services that are produced abroad but sold domestically. Imports are brought into a region from outside a region.
+Incentive (elementary)
+A reward that makes people bettor off or penalty that makes people worse off.
+Incentives
+Perceived benefits that encourage certain behaviors.
+Income
+The payment people receive for providing resources in the marketplace. When people work, they provide human resources (labor) and in exchange they receive income in the form of wages or salaries. People also earn income in the forms of rent, profit, and interest.
+Income (elementary)
+Payment people earn for the work they do.
+Income distribution
+The way income is distributed among individuals in a society.
+Income tax
+Taxes on income, both earned (salaries, wages, tips, commissions) and unearned (interest, dividends). Income taxes can be levied on both individuals (personal income taxes) and businesses (business and corporate income taxes).
+Index fund
+A mutual fund with the objective to match the composite investment performance of a large group of stocks or bonds such as those represented by the Standard and Poor’s 500 index.
+Index number
+A number used to represent the change in value of a magnitude (frequently of price levels) between the base date and a different date. Indices typically have a value of 100 on the base date.
+Inefficiency
+A condition that results when production of goods and services involves wasted resources or when it is possible to reallocate resources in a way that would generate greater consumer satisfaction.
+Inelastic demand
+The type of demand that exists when the percentage change in quantity demanded is less than the percentage change in price; that is, consumers are not very sensitive to a change in the price of a good or service.
+Inflation
+A general, sustained upward movement of prices for goods and services in an economy.
+Inflation rate
+The percentage increase in the average price level of goods and services over a period of time.
+Infrastructure
+Basic structures, including buildings and facilities such as roads, bridges, and waste disposal systems.
+Initial Public Offering (IPO)
+A company’s first sale of stock to the public.
+Inputs
+Materials and resources used to produce goods and services.
+Installment credit
+A loan given in a lump sum for a specific purchase or investment. The loan is paid back with regularly scheduled payments, which include interest. Examples include home loans, car loans, or business loans.
+Institutions
+A self-sustaining system of shared beliefs about how parties interact.
+Insurance
+Protection from specified losses in return for a fee (premium).
+Interbank funding markets
+In the United States, the market for bank reserves, which is an overnight loan of federal funds between depository institutions.
+Interest
+The price of using someone else's money. When people place their money in a bank, the bank uses the money to make loans to others. In return, the bank pays interest to the account holder. Those who borrow from banks or other organizations pay interest for the use of the money borrowed.
+Interest (elementary)
+Money paid to customers for keeping their money at the bank. Interest is also money customers pay to banks for loans received from the bank.
+Interest rate
+The percentage of the amount of a loan that is charged for a loan. Also, the percentage paid on a savings account.
+Interest rate effect
+The effect on consumer spending and investment spending caused by a change in the aggregate price level on the purchasing power of consumers' and firms' money holdings.
+Intermediary
+One who stands between two parties to facilitate a transaction; a mediator.
+Intermediate good
+A man-made good that is used to produce another good or service, becoming part of that good or service.
+Intermediate good (elementary)
+Goods made by people that become part of another good. The thread used to make a shirt and the flour used to make cookies are intermediate goods.
+Internal Revenue Service (IRS)
+The federal agency that collects income taxes in the United States.
+Internalizing the externality
+Altering incentives so that individuals and firms incorporate the costs and benefits that have been shifted to third parties into their decisionmaking.
+International trade
+Trade between different countries.
+Inventory
+Goods that have been produced but remain unsold.
+Investment
+The purchase of physical capital goods (e.g., buildings, tools, and equipment) that are used to produce goods and services.
+Investment (financial)
+An asset purchased with the hope that it will gain value and provide a financial return.
+Investment banker
+Someone who works with a business to determine how much money should be raised to accomplish the goals of the business and the price and number of shares that should be sold to reach those financial goals.
+Investment banking company
+A firm that engages in the origination, underwriting, and marketing of new securities that are issued in the credit markets.
+Investment-grade securities
+Bonds that have been deemed to have a relatively low probability of default. These securities are generally rated Baa (or BBB) and above.
+Investment in human capital
+The efforts people put forth to acquire human capital. These efforts include education, experience, and training.
+Investors
+People of institutions who provide money or other assets to a company in return for possible financial gain in the future.
+Issuer
+Any financial institution that issues or causes credit cards to be issued.
+Jumbo loan
+A loan that exceeds the mortgage amount eligible for purchase by Fannie Mae or Freddie Mac. Also called a "nonconforming loan".
+Keynesian multiplier effect
+An effect where an increase (or decrease) in a component of aggregate demand (i.e., consumption, investment, or government spending) produces an increase (or decrease) in national income that is greater than the initial increase (or decrease) in the component. This greater-than-proportional change in national income is the result of chain reactions that generate more (or less) activity than the original increase (or decrease).
+LIBOR index
+An index used to determine interest rate changes for certain ARM plans, based on the average interest rate at which international banks lend to or borrow funds in the London interbank market.
+Labor
+The quantity and quality of human effort directed toward producing goods and services. Also known as human resources.
+Labor force
+The total number of workers, including both the employed and the unemployed.
+Labor force participation rate
+The number of people who are either employed or are actively looking for work, usually expressed as a percentage.
+Labor market
+The exchange of labor by workers who want to sell labor and businesses that want to purchase labor. (Also known as the job market).
+Lags
+The time between the recognition of an economic problem, the negotiation and implementation of a solution, and the realization of results in the economy.
+Land
+Things that occur naturally in and on the earth that are used to produce goods and services. Examples include oceans, air, mineral deposits, virgin forests, and actual fields of land.
+Law of demand
+As the price of a good or service rises, the quantity demanded of that good or service falls. Likewise, as the price of a good or service falls, the quantity demanded of that good or service rises.
+Law of supply
+As the price of a good or service rises, the quantity supplied of that good or service rises. Likewise, as the price of a good or service falls, the quantity supplied of that good or service falls.
+Lawsuit
+A claim by a person or entity against another person or entity brought to a court of law for legal resolution.
+Lease
+A contract that states the terms and conditions a landlord and a tenant agree to regarding rental property, including payment terms, the responsibilities of both parties, and consequences if terms and conditions are not met, to ensure that both parties of the lease are protected.
+Legacy benefits
+Benefits that accrue over time.
+Legend
+Reference area on a map.
+Lender
+An individual or organization that provides money to a borrower with the expectation that the borrower will pay the money back.
+Lender (elementary)
+Someone who gives money or some item to a borrower and expects the borrower to repay the money or return the item.
+Liability
+1. Money owed; debt.2. Legal responsibility.
+Liability insurance
+Insurance coverage for injuries or damages the insured person causes to others.
+Liar loan
+An industry term for a low- or no-documentation loan, typically Alt-A or subprime, where there is a suspicion the borrower, mortgage broker, or loan officer may have fraudulently overstated the income and/or assets to qualify for a larger loan. These loans are typically "stated income" or "stated asset" loans, where the lender does not verify the income and instead records income based on the borrower's verbal statement.
+Lien
+The legal right to take or sell property as security for a debt.
+Liquid asset
+An asset that is easily convertible to cash with relatively little loss of value in the conversion process.
+Liquidation
+The sale of a debtor's nonexempt property and the distribution of the proceeds to creditors. Chapter 7 of the U.S. Bankruptcy Code provides for the liquidation of the filer's assets and distribution of the proceeds to the filer's creditors.
+Liquidity
+The quality that makes an asset easily convertible into cash with relatively little loss of value in the conversion process.
+Loan
+A sum of money provided temporarily on the condition that the amount borrowed be repaid, usually with interest.
+Loan (elementary)
+Money given to someone for a short time that must be paid back, usually with interest.
+Loanable funds
+Money made available to borrowers through the actions of savers.
+Loanable funds market
+A virtual market that consists of (i) borrowers, including money demanders, consumers, and firms who want loans to buy goods and services or invest in capital or inventory; and (ii) savers, such as money suppliers, households, and firms that save money. It is the market in which the supply and demand for loanable funds determines the interest rate.
+Loan guarantee
+A contract binding a third party to pay off a loan if the borrower defaults.
+Long-term savings goals
+Goods or services you want to buy in a year or longer.
+Macroeconomics
+The study of the broad economy, such as how an economy grows and how growth is maintained.
+Magnetic stripe
+A magnetic stripe on the back of a plastic card that activates card information stored on the card which swiped through a card reader; also called a magnetic strip or magstripe.
+Mandatory spending
+Government spending required by current law.
+Manufacture
+To make or process goods, especially in large quantities and by means of industrial machines.
+Marginal benefits
+The additional satisfaction a consumer receives by consuming an additional unit of a good or service.
+Marginal costs
+The additional cost of producing an additional unit.
+Marginally attached workers
+People who are willing and able to work who have either held a job or searched for a job within the past 12 months but are not actively seeking work. These people are not counted in the unemployment numbers (by the Bureau of Labor Statistics) since they are not actively seeking work.
+Marginal satisfaction/marginal utility
+The extra satisfaction from consuming 1 more unit of some good or service.
+Marginal utility
+The change in total usefulness or satisfaction a person derives from consuming one more unit of a product. The benefit gained from consuming one additional unit of a good or service.
+Margin call
+"Margin" refers to borrowing money using securities or other collateral that fluctuates in value. If the value of the collateral falls below the lender's maintenance requirement, the lender generally will "make a margin call", which means it will require the deposit of additional collateral.
+Market (marketplace)
+Buyers and sellers coming together to exchange goods, services, and/or resources.
+Market basket
+A selected group of consumer goods and services whose prices are tracked for calculating a consumer price index and measuring the cost of living.
+Market economy
+An economic system in which decisions about what goods and services are produced, how they are produced, and who gets them are made by buyers and sellers who meet to exchange goods, services, and resources. The buyers and sellers decide the prices of goods, services, and resources.
+Market economy (elementary)
+An economic system where buyers and sellers meet to exchange goods and services, and the buyers and sellers decide on price.
+Market power
+The ability of a single economic agent (or small group of agents) to have a substantial influence on market prices.
+Market price
+The price at which buyers and sellers trade a good or service in the marketplace where the quantity demanded equals the quantity supplied. Also known as the market clearing price or the equilibrium price.
+Mark-to-market
+An accounting rule (Financial Accounting Standards Board [FASB] 157) that requires companies to value assets at prices determined in the marketplace.
+Maturity (of bonds)
+The time period during which a bond makes coupon payments.
+Maximum employment
+The highest level of employment that an economy can sustain while maintaining a stable inflation rate.
+Means test
+Determines the level of a person’s current income or assets—to see if the debtor has sufficient income or assets to pay his or her debts.
+Means-tested
+Programs in which eligibility depends on the level of one’s current income or assets.
+Median
+The value in an ordered set of values below and above which there is an equal number of values; the number that divides numerically ordered data into two equal halves; the middle number of a set of numbers.
+Median value
+The middle number of a set of numbers; the number that divides numerically ordered data into two equal halves.
+Medicaid
+A jointly administered federal and state health care program for low-income people.
+Medicare
+A federal health care program that pays for certain medical and hospital costs for people aged 65 and older (and for some people who are under the age of 65 and disabled); part of Social Security.
+Medicare tax
+A payroll tax that is part of FICA, collected from most employees and employers to fund the hospital insurance provided under the Medicare system. Used to provide medical benefits for certain individuals when they reach age 65. Workers, retired workers, and the spouses of workers and retired workers are eligible to receive Medicare benefits upon reaching age 65.
+Medium of exchange
+Anything that is generally acceptable in exchange for goods and services.
+Medium-term notes
+Debt securities issued by corporations, with typical maturities between 5 and 10 years; however, the maturity may be as short as 1 year. Usually issued at floating rates.
+Menu costs
+The costs to a firm incurred as a result of changing prices. The term comes from the cost incurred for printing new menus when a restaurant raises prices.
+Metadata
+Information describing a data series.
+Metropolitan statistical area (MSA)
+A densely populated geographic region, with a city at its core, having strong economic ties.
+Microeconomics
+The study of the markets that make up the broad economy.
+Microloan
+A small, short-term loan at low interest, often used by self-employed individuals or entrepreneurs for start-up expenses, inventory, or equipment.
+Minimum wage
+The lowest wage that employers may legally pay for an hour of labor.
+Mixed economy
+An economic system where some decisions about what is produced, how it is produced, who gets what is produced, and prices of what is produced are made by buyers and sellers. Some decisions about what is produced, how it is produced, who gets what is produced, and prices of what is produced are determined by the government.
+Mixed economy (elementary)
+An economic system where buyers and sellers meet to exchange goods and services and decide on price with some government involvement in the economy.
+Monetary policy
+Central bank actions to achieve such goals as maximum employment and stable prices.
+Money
+Anything widely accepted in exchange for goods and services.
+Money creation
+An increase in the money supply generated by the banking system through the lending of reserves.
+Money market mutual fund
+A mutual fund (SEC-registered investment fund) that invests primarily in money market instruments and/or other short-term debt instruments. All money market mutual funds must hold assets with a weighted average maturity of no more than 90 days.
+Money neutrality
+An economic theory stating that, in the long run, changes in the money supply cause changes in variables, such as price and wages, but not in unemployment or real (or inflation-adjusted) variables, such as real GDP (gross domestic product) and real consumption.
+Money order
+A certificate that is backed by cash and issued by a government or bank. The buyer of a good buys the money order and sends it to the seller of the good. The seller can then cash the money order.
+Money supply
+The quantity of money available in an economy. The basic money supply in the United States consists of currency, coins, and checking account (demand) deposits. Also known as money stock.
+Monoline bond insurers
+A financial guaranty (insurance) company that guarantees all scheduled interest and principal payments on the bonds it insures and writes no other line of insurance.
+Monopolistic competition
+A market structure where many firms produce similar but not identical products.
+Monopoly
+A market for a good or service where there is only one supplier, or that is dominated by one supplier. Barriers prevent entry to the market and there are no close substitutes for the product.
+Moral hazard
+The risk that one party to a transaction will engage in behavior that is undesirable from the other party's view.
+Mortgage
+A loan for the purchase of a home or real estate.
+Mortgage debt
+A debt owed for loans for homes and real estate.
+Mortgage-related assets
+Generally defined to be whole mortgage loans, mortgage-backed securities (MBS), collateralized debt obligations (CDOs) that contain MBS, or derivative instruments that refer to any of the above, such as credit default swaps. Many of these assets are held on the balance sheets of financial institutions.
+Multiplier
+A factor of proportionality that measures how much an endogenous variable changes in response to a change in an exogenous variable. Some examples include the government spending multiplier, the money multiplier, and the Keynesian multiplier.
+Mutual fund
+A company that pools investors' money and then issues shares to its investors.
+Mutually beneficial trade
+In order for a trade to be mutually beneficial among each party involved, the price of the good or service must fall between the opportunity costs of producers involved in the trade. Importers will pay no more for goods or services than what it costs to produce them, while exporters will sell goods or services for no less than what it costs to produce them.
+NASDAQ
+The National Association of Securities Dealers Automated Quotations system—a stock exchange where trades are made electronically.
+National debt
+The accumulation of budget deficits. Also known as government debt.
+Natural rate of unemployment
+The unemployment rate that stems from economic factors unrelated to changes in aggregate demand. The rate of unemployment that does not contain cyclical unemployment.
+Natural resources
+Things that occur naturally in and on the earth that are used to produce goods and services.
+Negative amortization
+An increase in the balance of a loan caused by adding unpaid interest to the loan balance; this occurs when the payment does not cover the interest due.
+Negative equity
+A situation in which a borrower's mortgage principal is greater than the value of the house.
+Negative externality
+A negative side effect that results when the production or consumption of a good or service affects the welfare of people who are not the parties directly involved in a market exchange.
+Negative incentive
+A penalty that discourages people from behaving in a certain way.
+Nest egg
+An amount of money saved for a special occasion, such as retirement or buying a house.
+Net exports
+A component of gross domestic product (GDP), net exports are the result of U.S. exports minus U.S. imports.
+Net pay
+Gross pay minus deductions and taxes.
+Net worth
+The value of that person's assets minus the value of his or her liabilities.
+Nominal
+Monetary values measured in current prices.
+Nominal gross domestic product
+The total market value of all final goods and services produced in an economy in a given year, expressed using the current year's price for goods and services. Also known as current-dollar GDP.
+Nondischargeable debt
+A type of debt that cannot be eliminated (wiped out) through a bankruptcy proceeding.
+Nonexcludability
+The inability to keep nonpayers (free riders) from obtaining benefits from a certain good or service.
+Nonexempt property
+Property a debtor filing for bankruptcy must forfeit (give up) to pay creditors.
+Non-interest-bearing account
+An account in which no interest is paid on the principal, which is the amount of deposit or account balance. Also called zero-interest account.
+Non-liquid asset
+An asset that is not easily convertible into cash with relatively little loss of value in the conversion process.
+Nonprofit school
+Any public school, including public colleges and schools not a part of the public school system, that operates with no intention of making a profit.
+Non-recourse loans
+A loan (debt) that is secured by a pledge of collateral (could apply to any type of collateral), for which the lender agrees to rely solely on the collateral if the borrower fails to make the required payments of principal and interest.
+Nonrivalry (in consumption)
+The property of a good or service whereby one person's benefit from a certain good or service does not reduce the benefit available to others.
+Northern Rock
+A U.K. bank that was taken into temporary public ownership in February 2008. The bank concentrated primarily on mortgage lending to individuals for the purpose of home ownership.
+Office of Management and Budget
+The implementation and enforcement arm of presidential policy government-wide that carries out its mission through five critical processes, most notably budget development and execution.
+Office of Thrift Supervision (OTS)
+The federal regulator and supervisor of savings associations ("thrifts") and their subsidiaries. The OTS also oversees domestic and international activities of the holding companies and affiliates that own these savings institutions. The OTS is an office within the Department of the Treasury.
+Office of the Comptroller of the Currency (OCC)
+A bureau of the U.S. Department of the Treasury, the OCC charters, regulates, and supervises all national banks. It also supervises the federal branches and agencies of foreign banks.
+Oligopoly
+1st definition: An oligopoly is a market structure in which a few large firms (sellers) dominate a market. 2nd definition: A market for a good or a service where there are very few suppliers or that is dominated by few suppliers. Barriers prevent entry to the market, and there are few close substitutes for the product.
+Open data
+Data exempt from U.S. copyright laws and free for everyone to use without restriction.
+Open market operations
+The buying and selling of government securities through primary dealers by the Federal Reserve. When the securities are bought or sold, reserves in the banking system are increased or decreased, respectively.
+Opportunity cost
+The value of the next-best alternative when a decision is made; it's what is given up.
+Opportunity cost (elementary)
+The best thing given up when a choice is made; the second choice.
+Option
+A contract to buy or sell a specific financial product known as the underlying instrument at a pre-specified price.
+Option ARM (pay-option ARM)
+An adjustable-rate mortgage (ARM) that gives the borrower a set of choices of how much interest and principal to pay each month. This may result in negative amortization. The option period is typically limited, for example, to five years.
+Originate-to-distribute model
+A business model where lenders intend to securitize or sell loans that they originate. In contrast to portfolio lending, under this model, lender income is generated by fees paid by the buyers of the loans, rather than from payments made by borrowers.
+Output gap
+The difference between potential output and actual output.
+Output potential
+Points along the production possibilities frontier.
+Outputs
+Goods and services that are produced.
+Overdraft
+The result of an account holder authorizing a withdrawal through a check, ATM withdrawal, debit card purchase, or electronic payment when the account does not have enough money to cover the transaction.
+Overdraft fee
+The penalty associated with an overdraft.
+Overdraft service
+Provided by financial institutions to generally approve and pay overdraft transactions when the account holder does not have enough funds to cover the transactions in return for a fee.
+
+Paradox of thrift
+A controversial Keynesian economics theory that proposes that if everyone tries to save more during a recession, aggregate demand will fall. As a result, the theory argues everyone would grow poorer instead of richer due to the decreases in aggregate consumption and economic growth.
+Patent
+A license that gives the inventor of a new product the exclusive right to sell it for a specific period of time.
+Payday loan
+A small, short-term loan that is intended to cover a borrower’s expenses until his or her next payday. May also be called a paycheck advance or a payday advance.
+Payroll deduction
+Amounts subtracted from gross pay.
+Penalties
+Negative incentives that make people worse off.
+Per capita
+Per person. Determined by dividing the total quantity by the total population.
+Per capita gross domestic product
+Gross domestic product (GDP) divided by the total population of a country.
+Per capita measure
+The same as an average-person or a mean-person measure.
+Per capita personal income
+The total income earned by individuals in a state, region, or country during a year, divided by the population of the state, region, or country.
+Perfect competition
+A market in which there are many buyers and many sellers of an identical product.
+Peril
+In insurance, a specific risk or cause of loss.
+Permanent insurance
+A policy that does not expire until death, or age 100.
+Persistent identifier (of data)
+Internet address where data can be viewed or downloaded.
+Personal consumption expenditures
+A measurement of goods and services purchased by U.S. residents.
+Personal identification number (PIN)
+A required code known only by the cardholder that is used to make transactions; the PIN is entered into a terminal and sent to an authorizing entity to verify the account.
+Personal income
+The income that individuals receive from all sources, including wages and salaries, dividends and interest, rents, profits, and transfer payments.
+Personal saving rate
+The ratio of personal saving to disposable personal income; the fraction of income, after taxes, that is saved.
+Petition
+All required documentation that will begin a bankruptcy proceeding (e.g., bankruptcy forms, schedules, statements, plan) plus payment of the court filing fee.
+Phillips Curve
+An economic model indicating an inverse relationship between the rate of inflation and the rate of unemployment.
+Phishing
+When someone attempts to get your personal information by pretending to work for a legitimate or legitimate-sounding organization, such as a bank or the government.
+Physical capital
+Goods that have been produced and are used to produce other goods and services. They are used over and over again in the production process. Also called capital goods and capital resources.
+Pigovian tax
+A tax used to correct for a negative externality.
+Point-of-sale (POS) terminal
+An electronic device for the acceptance of payment cards; POS refers to the area or location where customers can pay for their purchases.
+Policy lags
+The time between the recognition of an economic problem, the negotiation and implementation of a solution, and the realization of results in the economy.
+Policy rate
+The interest rate that is used by a central bank to set and communicate its monetary policy stance (or position). In the United States, the Federal Reserve uses the federal funds rate as the policy rate.
+Portable
+Easy to carry.
+Portfolio
+A list or collection of financial assets that an individual or company holds.
+Positive externality
+A benefit to a third party arising from a transaction between two parties unrelated to the third party.
+Positive incentive
+A reward that encourages people to behave in a certain way.
+Potential GDP
+The real output an economy can produce when it fully employs its available resources.
+Potential output
+The real output (GDP) an economy can produce when it fully employs its available resources.
+Poverty threshold
+The dollar amount the U.S. Census Bureau uses to determine a family's or person's poverty status.
+Preferences
+An indication of our likes or dislikes; preferences help us make choices.
+Preferred stock (equity)
+Equity (ownership) shares in a firm that have a senior claim over common shareholders on the assets of a firm in the event of bankruptcy. A firm must pay preferred dividends on these shares, according to a contractually specified schedule at a rate that is either fixed or floating, before it can pay dividends to common shareholders.
+Premium
+The fee paid for insurance protection.
+Present bias
+Choosing what makes one happy in the moment.
+Present value
+Present value is the current value of a future sum of money, given a specified rate of return.
+Present value equation
+PV=FV [1/(1+i)n], where:
+PV = Present value, the amount that's not known but will be solved in the calculations. It's the amount needed today to achieve a determined future goal.
+FV = Future value, the amount of money wanted in the future. It is the amount that will be reduced at a determined interest rate to calculate the present value.
+i = Interest rate, which has a great effect on present value. The interest rate in this formula must be written in decimal form, such as 0.03 instead of 3%.
+n = The number of interest payments during a specified time; the number of times interest is applied.
+Price
+The amount of money, determined by the interaction of buyers and sellers, that a buyer must pay to acquire a good, service, or resource.
+Price (elementary)
+The amount of money that a consumer must pay to buy a good or service.
+Price ceiling
+A government-mandated maximum price that can be charged for a good or service.
+Price controls
+A restriction on a market that sets the price above or below the market equilibrium.
+Price discrimination
+The practice of selling the same good or service at different prices to different customers.
+Price floor
+A government-mandated minimum price that must be paid for a good or service.
+Price stability
+A low and stable rate of inflation maintained over an extended period of time.
+Primary Dealer Credit Facility (PDCF)
+An overnight Federal Reserve loan facility that provides funding to primary dealers in exchange for any eligible collateral.
+Primary credit rate
+The interest rate charged by the Federal Reserve for primary credit loans to depository institutions. Because primary credit is the Federal Reserve's main discount window program, the Federal Reserve at times uses the term "discount rate" to mean the primary credit rate. Discount rates are established by each Reserve Bank's board of directors, subject to the review and determination of the Board of Governors.
+Primary dealers
+Banks and securities broker-dealers that trade in U.S. government securities with the Federal Reserve Bank of New York.
+Primary market
+The market in which new stocks and bonds, in the form of initial public offers (IPOs), are issued.
+Principal
+The original amount of money deposited or invested, excluding any interest or dividends. Also refers to the original amount of a loan without any interest.
+Private (or nonpublic) school
+A school owned and operated by an individual; religious institution; partnership; or a corporation other than the state, a subdivision of the state, or the federal government and that is supported primarily with nonpublic funds.
+Private, for-profit college
+A college managed and governed by private organizations or corporations with the goal of earning profit.
+Private good
+A good that once used by one person cannot be used by someone else. They are considered rival in consumption and/or excludable. A person can be excluded from using a private good.
+Private good, "me-only" good
+A good or service that benefits (satisfies) the person who buys it; a good or service that you can’t use unless you pay for it.
+Private-label prepaid card
+A merchant-specific card that can be used only at a particular merchant or chain of merchants (e.g., Sears or JC Penney); a card issued by and used for purchases at a retailer. Private-label cards cannot be used on a general-purpose card network.
+Private-label securities
+In the housing-finance business, a mortgage-backed security or other bond created and sold by a company other than a government-sponsored enterprise. Private-label securities frequently are collateralized by loans that are ineligible for purchase by Fannie Mae or Freddie Mac.
+Probability
+The likelihood or chance of an event occurring.
+Producers
+People who make goods and services.
+Production
+The process of using resources and intermediate goods to make goods and provide services.
+Production function
+The combination of inputs to produce outputs.
+Production possibilities frontier
+A graphic representation of output combinations that can be produced given an economy's available resources and technology.
+Productive capacity
+The maximum output an economy can produce with the current level of available resources.
+Productive resources
+The natural, human, and capital resources used to make goods and services. Also known as factors of production.
+Productivity
+The ratio of output per worker per unit of time.
+Products (elementary)
+Goods or services.
+Profit
+The amount of revenue that remains after a business pays the costs of producing a good or service.
+Progressive Tax
+A tax in which high-income earners pay a larger fraction of their income in taxes than low-income earners do.
+Property rights
+The legal ownership of something with economic value.
+Proportional (Flat) Tax
+A taxing system that takes the same percentage of tax at all income levels.
+Proprietary data
+Data subject to U.S. copyright laws; the author can restrict the distribution of the data.
+Public good
+A good that is non-rival and non-excludable. Use by one person does not prevent its consumption by others.
+Public good, "shared" good
+A good or service that benefits (satisfies) many people at one time; a good or service that people can use even if they don’t pay for it.
+Public school
+A school that receives monetary support from public funds.
+Purchasing power
+The amount of goods and services that a unit of currency can buy.
+Qualified distribution
+A reason you may withdraw money from a Roth IRA without the withdrawal being subject to tax.
+Quantitative easing (QE)
+A monetary policy in which a central bank makes large-scale asset purchases designed to bolster financial market conditions.
+Quantity demanded
+The amount of a good or service that consumers are willing and able to buy at a specific price.
+Quantity supplied
+The amount of a good or service that businesses are willing and able to sell at a specific price.
+Quantity theory of money
+A theory that emphasizes the relationship between the money supply and the price level.
+Quartile
+One part of a dataset that has been divided into four equal parts.
+Quota
+A limit on the quantity of a good that can come into a country.
+Rate of return
+A useful measure to compare how different assets may increase your wealth.
+Real
+Monetary values, wages, or prices, adjusted for inflation and measured in constant prices—that is, in prices of a given or base period. Real monetary values are obtained by adjusting nominal wages or prices with a price measure such as the CPI.
+Real asset
+A tangible item that has intrinsic value due to its substance and properties.
+Real gross domestic product (GDP)
+The total market value of all final goods and services produced in an economy in a given year calculated by using a base year's price for goods and services; nominal gross domestic product (GDP) adjusted for inflation.
+Real interest rate
+The price of borrowed money, adjusted for inflation.
+Real rate of return
+The rate of return on the investment minus the inflation rate.
+Real value
+A measure of money that removes the effect of inflation.
+Recession
+A period of declining real income and rising unemployment; significant decline in general economic activity extending over a period of time.
+Reciprocal currency (swap) arrangements
+Short-term reciprocal arrangements between a Federal Reserve Bank and a foreign central bank. By drawing on a swap the foreign central bank obtains dollars that can be used to conduct foreign exchange intervention in support of its currency or to lend to its domestic banking system to satisfy temporary liquidity demands. For the duration of the swap, the Federal Reserve Bank obtains an equivalent amount of foreign currency along with a commitment from the foreign central bank to repurchase the foreign currency at a preset exchange rate.
+Recycle
+To collect used materials and use them to produce new goods.
+Reduce
+To produce and consume fewer goods.
+Refine
+To develop production methods that use fewer intermediate goods and less energy and, therefore, use fewer natural resources and produce less waste.
+Regressive Tax
+A taxing system that takes a larger percentage of a lower income and a lower percentage of a higher income.
+Relative frequency
+The number of times that an outcome has occurred, divided by the total number of completed trials.
+Relatively scarce
+An item that is scarce in relation to people's desire for it.
+Relative price
+The cost of a good or service in terms of another good or service.
+Relative scarcity
+Demand for a resource, good, or service relative to the available supply of that resource, good, or service.
+Reloadable card
+A prepaid card that allows the cardholder to add more funds (money) to the card.
+Rent
+The payment for natural resources.
+Rent controls
+A type of price control that typically sets the rental rate for an apartment below the market rate.
+Rent-to-own contract
+A contract that allows consumers to get immediate delivery on new furniture, appliances, or other items. There is no down payment or credit check required. If the consumer keeps the rental item for a minimum amount of time, there is no penalty charged for returning it. If the renter misses a payment, the contract requires that he or she return the item.
+Repossess
+To retake possession of something when the buyer fails to make payments.
+Required reserves
+Funds that a depository institution is required to maintain in the form of vault cash, or—if vault cash is insufficient to meet the requirement—in the form of a balance maintained directly with a Reserve Bank or indirectly with a pass-through correspondent bank.
+Reservation rate
+The lowest rate of return that banks are willing to accept for lending out funds.
+Reserve maintenance period
+The period of time that reserve balance requirements and contractual clearing balances need to be met (only on average).
+Reserve requirement
+The percentage of a bank's deposits it is required by law to hold.
+Reserves (bank)
+The sum of cash that banks hold in their vaults and the deposits they maintain with Federal Reserve banks.
+Residential mortgage-backed security (RMBS)
+A security that relies for payment on cash flows generated by a pool of residential mortgage debt obligations. (See also: Asset-backed security and Commercial mortgage-backed security.)
+Resources
+The natural, capital, and human resources used to produce goods and services. Also known as productive resources.
+Retail
+The resale of new and used goods to general consumers.
+Retained earnings
+A portion of a company’s profit used as savings, to pay off debt, or to reinvest in the company.
+Retirement
+Permanently leaving a job, career, occupation, or active working life.
+Retirement Plan 401(k)
+A retirement plan sponsored by an employer that allows employees of a company to save and invest for their own retirement on a tax-deferred basis. Employers may use 401(k) plans as a means of distributing company stock to employees.
+Return on Investment (ROI)
+A performance measure of the effectiveness of an investment. ROI is calculated as the net gain (gain from investment minus cost of investment) divided by the cost of investment.
+Reuse
+To use goods more than once or to use goods in new ways.
+Revenue
+Money received; income.
+Revenue (government)
+The income received by government from taxes and other nontax sources.
+Revolving credit
+A line of available credit that is usually designed to be used repeatedly, with a preapproved credit limit. The amount of available credit decreases and increases as funds are borrowed and then repaid with interest.
+Rewards
+Positive incentives that make people better off.
+Rider
+An optional addition to an insurance policy that adds benefits or amends the terms of the policy and may increase the premium.
+Risk
+The chance of loss.
+Risk averse
+An investor who will trade off a higher return for the benefit of greater certainty of return.
+Risk-reward relationship
+The idea that there is a direct relationship between risk of the loss of principal and the expected rate of return. The higher the risk of loss of principal for an investment, the greater the potential reward. Conversely, the lower the risk of loss of principal for an investment, the lower the potential reward.
+Rivalry (in consumption)
+The property of a good or service whereby consumption by one party excludes other parties from obtaining the benefit.
+Rule of 72
+A method to estimate the number of years it will take for a financial investment (or debt) to double its value (or cost). Divide 72 by the interest rate (percentage) to determine the approximate number of years it will take the investment (debt) to double its value (cost).
+Rule of law
+Concept that holds that government and its officers must exercise their power according to established regulations and legal principles.
+Salary
+Income earned for providing human resources (labor) in the market. Salaries are generally an annual amount paid monthly or bimonthly for a specified number of hours, usually 40 hours per week.
+Save
+To keep money to spend in the future.
+Saving
+Income not spent on current consumption or taxes. Saving involves giving up some current consumption for future consumption.
+Saving (elementary)
+Keeping some income to buy things in the future.
+Saving rate
+The percentage of your income that you save.
+Savings
+The accumulation of money set aside for future spending.
+Savings (elementary)
+Money set aside for future spending.
+Savings account
+An account with a bank or credit union in which people can deposit their money for future use and earn interest.
+Savings and loan associations
+Financial institutions with a federal or state charter that accept savings deposits and invest the bulk of those deposits in mortgages.
+Savings goal
+A good or service that you want to buy in the future.
+Savings plan
+A schedule listing tasks that, when completed, will allow a saver to reach a savings goal.
+Scarcity
+The condition that exists because there are not enough resources to produce everyone's wants.
+Search costs
+The financial opportunity costs consumers pay when searching for a counterparty in a transaction.
+Seasonally adjusted
+Data adjusted mathematically to remove the ups and downs that occur due to seasonal events, such as extra retail workers hired for the holidays. Seasonal adjustment removes the effects of events that follow a more or less regular pattern each year. These adjustments make it easier to observe the cyclical and other nonseasonal movements in a data series.
+Seasonal unemployment
+Unemployment caused by changes in the weather or seasons.
+Secondary market
+The market in which investors buy and sell securities among each other.
+Second mortgage
+A mortgage that has a lien position subordinate to the first mortgage.
+Secured debt
+A loan that is backed with collateral; a loan for which the lender requires and the borrower offers property as a guarantee of repayment.
+Secured loan
+A loan that is backed with collateral; a loan for which the lender requires and the borrower offers property as a guarantee of repayment.
+Securities and Exchange Commission (SEC)
+The SEC is an independent U.S. government agency established by Congress to police and regulate the securities industry.
+Securitization
+A financial transaction in which assets such as mortgage loans are pooled and securities representing interests in the pool are issued.
+Security deposit
+Money paid by a tenant to a landlord that the landlord holds during the occupancy and may use to pay for any damage or unpaid rent when the lease ends or must otherwise return to the tenant. State laws dictate how soon it must be repaid after the lease ends.
+Self-interest
+The pursuit of personal gain.
+Senior debt
+If the issuer of a debt security goes bankrupt, senior debt must be repaid before other creditors receive any payment. Senior debt is often secured by collateral on which the lender has a first lien.
+Senior secured debt
+Generally, refers to borrowing by a financial or nonfinancial firm that is secured by real (physical) assets and has prior claim to incoming cash flows before other debt.
+Services
+Actions that can satisfy people's wants.
+Services (elementary)
+Activities people do for us.
+Shoe-leather costs
+The figurative costs of replacing shoes more often because of increased trips to the bank. This would occur during times of inflation when there is a real cost associated with holding currency in non-interest-bearing checking accounts.
+Shortage
+When the quantity demanded of a good or service exceeds the quantity supplied at a particular price.
+Short-run aggregate supply curve
+A graphical depiction of the relationship between the aggregate price level and the quantity of aggregate output supplied.
+Short selling
+The selling of a stock or other security not owned by the seller. In effect, the seller is betting that the price of the security will fall. A "naked" short sale is an unhedged position.
+Short-term savings goal
+Goods or services to be bought within a short time, such as a few weeks or months.
+Signal
+A way to reveal credible information to another party.
+Simple interest
+Interest paid or earned based on only the principal of a loan or account.
+Sit-in
+A type of protest where people refuse to buy the business's goods and services and block others from making purchases by taking all of the seats in a restaurant or blocking the entrance to a business.
+Skill premium
+The difference between the average earnings of those with a four-year college degree and those without.
+Skimming
+An illegal method of stealing credit card information by using a small electronic device that scans and stores credit card data. The stolen credit card information can be used to make fraudulent purchases or clone new cards.
+SmartPay Program
+The world's largest government charge card and commercial payment program that allows authorized government employees to make purchases on behalf of the U.S. government.
+Social Security
+A federal system of old-age, survivors', disability, and hospital care insurance that requires employers to withhold (or transfer) wages from employees' paychecks and deposit that money in designated accounts.
+Social Security income
+The monthly monetary amount received by retired workers who paid into the Social Security system while they worked.
+Social Security tax
+A payroll tax that is part of FICA (Federal Insurance Contributions Act) and is collected from most employees and employers to fund Social Security, which provides old-age, survivors', and disability income.
+Socially optimal quantity
+The quantity of goods produced that takes private and social costs into account.
+Soft inquiry
+Any check of a person’s credit report that occurs when the person’s credit is not being reviewed by a prospective lender. Examples include inquiries as part of a background check, a person checking his or her own score, and checks by a financial institution with which a person already does business.
+Soft skills
+Interpersonal skills such as communication (verbal, written), teamwork, dependability, problem solving, leadership, time management, creativity, and so on.
+Solvency
+The ability of a company to meet its long-term debts and financial obligations and ultimately stay in business.
+Specialization
+Limiting production to fewer goods and services than consumed, perhaps those whose production entails the lower opportunity cost.
+Specialization (elementary)
+Working in a specific job producing a specific good or service, and relying on other workers to produce other goods and services.
+Special purpose districts
+Government entities existing to support a special function, such as fire protection, libraries, or mass transit.
+Special purpose vehicle (SPV)
+A legal entity (usually a limited liability company) created to fulfill narrow or temporary objectives. The SPV exists to hold the assets and issue a new set of claims on the assets, making the SPV sponsor remote from any bankruptcy associated with the pool of assets. The SPV typically holds a portfolio of various assets such as mortgages, loans, or corporate bonds. This portfolio is sliced into different components (called tranches).
+Spending
+Using some or all of your income to buy things you want now.
+Stagflation
+The condition of relatively high inflation and relatively high unemployment occurring simultaneously.
+Standard
+A requirement that must be met in order for trade to take place. For example, there may be requirements related to safety, health, or the environment.
+Standard of living
+A measure of the goods and services available to each person in a country; a measure of economic well-being. Also known as per capita real GDP (gross domestic product).
+Stigma
+A stain on one's reputation; a mark or token of disgrace.
+Stimulus
+Actions taken by a government or a central bank that are intended to encourage economic activity and growth.
+Stimulus packages
+Combinations of tax cuts, subsidies, and increases in government spending.
+Stock
+A share of ownership in a company. Stocks are often traded publicly.
+Stock exchange
+A market in which stocks are bought and sold.
+Stock market index
+A collection of stocks chosen to represent a particular part of the market.
+Stock mutual fund
+A mutual fund that buys stock in order to make profits for the investors.
+Store of value
+The ability to retain worth.
+Stress test
+An assessment of capital adequacy conducted by U.S. federal bank and thrift supervisors. The purpose of the stress test (formally, a capital assessment) is to determine if the largest U.S. banking organizations have sufficient capital buffers to withstand the impact of an economic environment that is more challenging than is currently anticipated.
+Structural unemployment
+Long-term joblessness caused by a mismatch in the skills held by those looking for work and the skills demanded by those seeking workers.
+Structured investment vehicle (SIV)
+A special purpose entity that invests in a variety of financial assets and is funded by short- or medium-term borrowings—for example, asset-backed commercial paper (ABCP).
+Student loan default
+A student loan with no likelihood of being repaid.
+Stylized fact
+An economic phenomenon consistently described by data but not systematically defined by theory.
+Subordinate financing
+Any mortgage or other lien with lower priority than the first mortgage.
+Subprime mortgage loan
+The classification "subprime" generally is a lender-given designation for loans extended to borrowers with some sort of credit impairment, say, due to missing installment payments on debt or the lack of a credit history. Along with an individual's credit rating, characteristics of the mortgage loan can contribute to a lender classifying a loan as subprime—features such as limited or no documentation about income or assets, high loan-to-value ratios, or high payment-to-income ratios.
+Subsidized loan
+A loan in which the government pays the interest on the loan for a specific time.
+Subsidy
+A payment made by the government to support a business or market. No good or service is provided in return for the payment.
+Substitute
+A similar good. With substitutes, a change in the price of one and the demand for the other tend to move in the same direction.
+Substitute (resource)
+Productive inputs that can be used in place of one another.
+Sunk cost
+A cost that has already been incurred and cannot be recovered.
+Supplemental Nutrition Assistance Program (SNAP)
+A government program that helps low-income individuals and households purchase food. Formerly known as food stamps, the program now uses electronic swipe cards.
+Supply
+The quantity of a good or service that producers are willing and able to sell at all possible prices during a certain time period.
+Supply curve
+The graphic representation of the quantity of a good or service that producers are willing and able to sell at all possible prices during a certain time period.
+Surplus
+When the quantity supplied of a good or service exceeds the quantity demanded at a particular price.
+Systemic risk
+Risk that a disruption at a firm, in a market segment, to a settlement system, or in a similar setting will cause widespread difficulties at other firms, in other market segments, or in the financial system as a whole.
+Tariff
+A tax that must be paid before a good may be brought into a country.
+Taxable income
+Adjusted gross income minus allowable tax exemptions, deductions, and credits; the amount of income that is subject to income tax.
+Tax base
+The dollar value of something such as income, property, or an amount spent for a good or service.
+Tax credit
+An amount directly deducted from the total tax owed.
+Tax deductions
+A fixed amount or percentage permitted by taxation authorities that a taxpayer could subtract from his or her gross income to reduce taxable income.
+Taxes
+Mandatory payments individuals, households, and businesses make to local, state, or national governments.
+Taxes (elementary)
+Money people are required to pay government.
+Tax exemption
+Amount allowed by the IRS that can be deducted from taxable income to reduce the amount of income tax owed. There are two types: personal and dependency. The personal exemption is for the taxpayer; the dependency exemption is based on the number of dependents the taxpayer has. The exemption amount is a set amount that changes from year to year.
+Tax refund
+Money owed to taxpayers when their total tax payments are greater than the total tax. Refunds are received from the government.
+Technological advance
+An advance in overall knowledge in a specific area; also known as technological change.
+Technological capability
+Refers to the ability to provide organizations with technological strength and gives opportunity to create competitive advantage.
+Technological change
+An advance in overall knowledge in a specific area. Also known as technological advance.
+Technology
+The application of knowledge to the production of goods and services.
+Term Asset-Backed Securities Lending Facility (TALF)
+A Federal Reserve funding facility that supports the issuance of asset-backed securities (ABS) collateralized by student loans, auto loans, credit card loans, and loans guaranteed by the Small Business Administration (SBA). Under the TALF, the Federal Reserve Bank of New York (FRBNY) lends up to $200 billion on a non-recourse basis to holders of certain AAA-rated ABS backed by newly and recently originated consumer and small business loans. The FRBNY lends an amount equal to the market value of the ABS less a "haircut" secured at all times by the ABS. The U.S. Treasury Department—under the Troubled Assets Relief Program (TARP) of the Emergency Economic Stabilization Act of 2008—provides $20 billion of credit protection to the FRBNY in connection with the TALF. The TALF ended in December 2009.
+Term Auction Facility (TAF)
+A Federal Reserve program that auctions term funds (typically funds of 28- or 84-day maturity) to depository institutions. All depository institutions that are eligible to borrow under the primary credit program are eligible to participate in TAF auctions. All advances must be fully collateralized. The last auction was March 8, 2010.
+Term Securities Lending Facility (TSLF)
+A Federal Reserve loan facility that promotes liquidity in Treasury and other collateral markets by offering Treasury securities held by the System Open Market Account (SOMA) for loan over a one-month term against other program-eligible general collateral. Securities loans are awarded to primary dealers based on a competitive single-price auction. The TALF was closed February 1, 2010.
+Term Securities Lending Facility (TSLF) and TSLF Options Program (TOP)
+A Federal Reserve lending program that offers options to the primary dealers to draw upon short-term, fixed-rate Term Securities Lending Facility (TSLF) loans from the System Open Market Account (SOMA) portfolio in exchange for program-eligible collateral. The program is intended to enhance the effectiveness of TSLF by offering added liquidity over periods of heightened collateral market pressures, such as quarter-end dates.
+Term insurance
+A policy providing coverage for a specific time period, such as 10 years. When the policy term ends, the insurance expires.
+Term repurchase (repo) agreements (transactions)
+The sale of securities to an investor with an agreement to repurchase them at an agreed-upon price and date. The FOMC uses repos of eligible securities to vary the quantity of banking system reserves as part of its implementation of monetary policy.
+The Truth in Lending Act
+A federal law that requires the disclosure of information about the cost of credit. Both the finance charges and annual percentage rate (APR) must be displayed prominently on forms and statements.
+Time series data
+A collection of observations of data items obtained through repeated measurements over time.
+Too-big-to-fail
+Government practices that protect large banking organizations from the normal discipline of the marketplace because of concerns that such institutions are so important to markets and their positions so intertwined with those of other banks that their failure would be unacceptably disruptive, financially and economically.
+Total revenue
+The selling price multiplied by the quantity demanded.
+Trade
+The exchange of resources, goods, or services for other resources, goods or services, or for money.
+Trade (elementary)
+The exchange of goods or services for other goods or services or for money.
+Trade barrier - government imposed
+Any action government takes to make trade more difficult. See tariffs, quotas, embargo, and standards.
+Trade barrier - natural
+Any barrier imposed by nature such as distance, mountains, rough terrain, high temperatures, or rough seas.
+Trade deficit
+The difference that results when the value of a country’s imports exceeds the value of its exports.
+Trade-off
+Giving up some of one thing in order to gain some of something else.
+Trade routes
+The paths traders use to reach the people with whom they are trading or to send the goods and resources they are trading.
+Trade surplus
+The difference that results when the value of a country’s exports exceeds the value of its imports.
+Tragedy of the commons
+The overuse of a resource, such as water, land, or air, due to poorly defined property rights.
+Tranche
+When mortgages are securitized, the bonds created are often divided into a number of tranches. Tranches are related bonds offered as part of the same transaction, where each bond is a different slice of the deal's risk. Transaction documentation defines the tranches as different "classes" of notes, each identified by letter (e.g., Class A, Class B, and Class C securities). Bonds in the least-risky class have first claim on the cash flow from the pool of underlying mortgages, then bonds in the next class are paid, and so on, up to the riskiest bonds, which have the residual claim. Bonds in riskier tranches typically pay higher interest.
+Transaction costs
+The costs associated with buying or selling a good, service, or financial asset.
+Transfer
+A one-way payment for which no money, good, or service is given or exchanged.
+Transfer payments
+Payments by governments to people who do not supply goods, services, or labor in exchange for the payments.
+Transfer payments (elementary)
+Money collected from some people and distributed to other people.
+Transfer programs
+Government programs designed to improve economic equity.
+Travelers checks
+Checks issued by a financial institution which function as cash but are protected against loss or theft.
+Treasuries
+The collective name for the bills, bonds, and notes issued by the U.S. Treasury on behalf of the federal government.
+Treasury bill
+A security issued by the Treasury with an original maturity of no more than one year. Interest on a Treasury bill is the difference between the purchase price and the value paid at redemption.
+Treasury bond
+A fixed-rate, interest-bearing security issued by the Treasury with an original maturity of more than 10 years.
+Treasury note
+A fixed-rate, interest-bearing security issued by the Treasury with an original maturity of more than 1 year but not more than 10 years.
+Tri-party repurchase agreement
+A repurchase transaction involving three parties: an investor, a financial institution, and a clearing bank, which acts as an intermediary. In these transactions, which usually involve large amounts of cash and securities, the investor deposits money with the clearing bank, which then lends it to another institution.
+Troubled Asset Relief Program (TARP)
+The Emergency Economic Stabilization Act of 2008 authorized the Secretary of the Treasury to establish the Troubled Asset Relief Program (TARP) to purchase, and to make and fund commitments to purchase, troubled assets from financial institutions. The program closed on December 23, 2009.
+Troubled assets
+Under the Emergency Economic Stabilization Act, Congress authorized the Treasury to use up to $700 billion to purchase "troubled assets" (i) residential or commercial mortgages and any securities, obligations, or other instruments that are based on or related to such mortgages, that in each case was originated or issued on or before March 14, 2008, the purchase of which the Secretary of the Treasury determines promotes financial market stability; and (ii) any other financial instrument that the Secretary, after consultation with the Chairman of the Board of Governors of the Federal Reserve System, determines the purchase of which is necessary to promote financial market stability, but only upon transmittal of such determination, in writing, to the appropriate committees of Congress.
+Truth-in-Lending Act (Regulation Z)
+A federal law intended to promote the informed use of consumer credit by requiring disclosure about its terms and costs. Creditors are required to disclose the cost of credit as a dollar amount (the finance charge) and as an annual percentage rate (APR).
+U.S. Treasury securities
+Bonds, notes, and other debt instruments sold by the U.S. Treasury to finance U.S. government operations.
+Unbanked
+Consumers who have no account at a bank or a financial institution.
+Underbanked
+Consumers or businesses that have limited or poor access to primary financial services provided by banks and rely on alternative financial services.
+Underemployed
+Wanting a full-time job but having only a part-time job; being overqualified for a job and receiving less pay than would be earned at a job requiring a higher skill level.
+Underemployment (resource)
+A situation that occurs when scarce resources are not put to their highest-valued use in the production of goods and services.
+Unemployment
+A condition where people at least 16 years old are without jobs and actively seeking work.
+Unemployment compensation
+A program providing cash benefits for a specified period of time to workers who lose a job through no fault of their own. Also known as unemployment insurance.
+Unemployment insurance (compensation)
+A program providing cash benefits for a specified period of time to workers who lose a job through no fault of their own.
+Unemployment rate
+The percentage of the labor force that is willing and able to work, does not currently have a job, and is actively looking for employment.
+Uninsured motorist insurance
+Insurance coverage that pays for your damages when you are involved in a car accident with someone who does not have liability insurance.
+Unintended consequences
+The unexpected and unplanned results of a decision or action.
+Unit of account
+A common measurement used to compare the value of goods and services.
+Universal resource locator (URL)
+An internet address that allows the reader of a data citation to access the data directly from a website.
+Unsecured loan
+A loan not backed with collateral.
+Utility/Satisfaction
+The total satisfaction received from consuming goods and services.
+Value
+The amount of satisfaction or happiness that a good or service gives an individual.
+Variable costs
+Costs that change as the quantity of goods and services that a business produces changes.
+Volatile
+Likely to change in a sudden or extreme way.
+Volatility
+A sudden or large change in the price of an asset.
+Volunteering
+Performing an activity, task, or service for another person or organization without being paid.
+W-2 form, Wage and Tax Statement
+A summary of a person's earnings and tax withholdings for an entire year. Employers must provide a W-2 to employees by the end of January for the previous year's employment to report annual income and withholding on the employees' tax returns.
+W-4 form, Employee's Withholding Allowance Certificate
+A form completed by the employee and used by the employer to determine the amount of income tax to withhold.
+Wage garnishment
+A court order imposed on an employer to withhold a portion of an employee’s wages to be sent to a person or business to whom the employee owes money.
+Wages
+Income earned for providing human resources (labor) in the market. Wages are usually computed by multiplying an hourly pay rate by the number of hours worked.
+Wages (elementary)
+Income people receive for work that they do.
+Wants
+Desires that can be satisfied by consuming goods and services.
+Warrant
+A security that entitles the holder to buy stock of the issuing company at a specified price on or after a specified date.
+Warranty
+A guarantee to a consumer that promises a product or service will perform as intended.
+Waste
+The unavoidable material that remains after something has been consumed or produced.
+Wealth effect
+The effect on consumer spending caused by a change in the aggregate price level on the purchasing power of the consumers' assets.
+Wholesale
+The selling of goods in large quantities to be retailed by others.
+Willingness to pay
+The maximum amount that a buyer will pay for a good or service.
+Withholding allowance
+The amount of money that an employer withholds from an employee's paycheck. This money is deposited for the government on behalf of the individual taxpayer. (It will be credited against the employee's tax liability when he or she files a tax return.) Employers withhold money for federal income taxes, Social Security taxes, and state and local income taxes in some states and localities.
+Workout
+A workout is a process where the terms of a loan are modified or the lender agrees to some forbearance in order to avoid default, foreclosure or bankruptcy.
+Yield curve
+A graph that shows the yields of bonds with different maturity dates.

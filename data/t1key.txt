@@ -1,0 +1,352 @@
+AD/AS model: a framework used to explain the behaviour of real output and prices in the national
+economy.(5.1)
+Aggregate demand: planned aggregate expenditure on final goods and services at different price
+levels, all other conditions remaining constant. (5.1)
+Aggregate expenditure (AE): planned expenditure by business and households. (6.2)
+Aggregate expenditure (AE): the sum of planned induced and autonomous expenditure in the
+economy. (6.2)
+Aggregate production function: the link between labour and capital inputs to production, technology and the output of real GDP. (13.2)
+Aggregate supply: the output of final goods and services businesses would produce at different
+price levels, all other conditions held constant. (5.1)
+Appreciation of the national currency: an increase in the value of the currency relative to other
+national currencies, which results in a fall in the domestic currency price of foreign currencies.
+(9.4)
+Automatic stabilizers: tax and transfer programs that reduce the size of the multiplier and the
+effects of transitory fluctuations in autonomous expenditures on equilibrium GDP. (7.5)
+Autonomous expenditure (A): planned expenditure that is not determined by current income.
+(6.2)
+Balance of payments accounts: a record of trade and financial transactions between residents of
+one country and the rest of the world. (12.1)
+Balance of payments: the sum of the balances in current accounts and financial accounts, minus
+the change in the holdings of official reserves. (12.1)
+Balanced budget: revenues are equal to expenditures. (7.3)
+Bank of Canada: Canada’s central bank. (8.3)
+371
+372 Glossary
+Bank rate: the interest rate the central bank charges on its loans to commercial banks. (10.2)
+Bank reserves: cash (legal tender) held by banks to meet possible withdrawals by depositors. (8.1)
+Bankers risk: the risk that customers may demand cash for their deposits. (8.3)
+Barter exchanges: direct exchanges of goods or services for goods or services without the use of
+money. (8.1)
+Bond coupon: the annual fixed money payment paid to a bond holder. (9.1)
+Bond price: the present value of future payments of interest and principal. (9.1)
+Bond: a financial contract that makes one or more fixed money payments at specific dates in the
+future. (9.1)
+Boom: a period of high growth that raises output above normal capacity output. ( 1.6)
+Budget deficit: revenues are less than expenditures. (7.3)
+Budget function: the relationship between the budget balance and the level of national income for
+a specific budget program. (7.3)
+Budget surplus: revenues are greater than expenditures. (7.3)
+Business cycles: short-term fluctuations of actual real GDP. (5.4)
+Capital stock: the buildings, machinery, equipment and software used in producing goods and
+services. ( 1.6)
+Central bank intervention: purchases or sales of foreign currency intended to manage the exchange rate. (12.3)
+Central bank: an institution that conducts monetary policy using its control of monetary base and
+interest rates. (10.1)
+Centralized e-money: a payment card denominated in a national currency. (8.1)
+Change in official international reserves: the change in the Government of Canada’s foreign
+currency balances. (12.1)
+Circular flow diagrams: show the flows of money payments, real resources, and goods and services between households and businesses. (4.3)
+Clearing balances: cash balances used by a bank to settle any differences between its customers’
+373
+payments and receipts involving other banks. (8.3)
+Comparative static analysis: compares an initial equilibrium with a new equilibrium, where the
+difference is due to a change in one of the conditions behind the initial equilibrium. (3.4)
+Complementary goods: when a price reduction (rise) for a related product increases (reduces)
+demand for a primary product it is a complement for the primary product. (3.3)
+Constant returns to scale: equal percentage increases in inputs of labour and capital increase
+output by the same percentage. (13.3)
+Consumer price index (CPI): a measure of the cost of living in any one year to the cost of living
+in a base year. (4.1)
+Consumer price index: the average price level for consumer goods and services. (2.1)
+Consumption possibility frontier (CPF): the combination of goods that can be consumed as a
+result of a give production choice. (1.4)
+Convertible currency: a national currency that can be freely exchanged for a different national
+currency at the prevailing exchange rate. (12.3)
+Cost of credit: the cost of financing expenditures by borrowing at market interest rates. (9.4)
+Credit easing: the management of the central bank’s assets designed to support lending in specific
+financial markets. (10.4)
+Credit money: the debt of a private business or individual. (8.1)
+Cross-section data: values for different variables recorded at a point in time. (2.1)
+Cryptocurrency: a decentralized e-money with no centralized issuer and not denominated in any
+national currency. (8.1)
+Currency appreciation: a rise in external value of the domestic currency that lowers the domestic
+currency price of foreign currency. (12.2)
+Currency depreciation: a fall in external value of the domestic currency that raises domestic
+currency price of foreign currency. (12.2)
+Current account: a record of trade in goods, services, and transfer payments. (12.1)
+Cyclical unemployment: would be eliminated by higher levels of economic activity. (4.1)
+Data: recorded values of variables. (2.1)
+374 Glossary
+Decentralized e-money: has no centralized issuer and is not denominated in any national currency.
+It is a cryptocurrency such as a bitcoin. (8.2)
+Deflation: a persistent fall in the general price level. (11.6)
+Demand curve: a graphical expression of the relationship between price and quantity demanded
+with all other influences unchanged. (3.3)
+Demand: the quantity of a good or service that buyers wish to purchase at each possible price with
+all other influences on demand remaining unchanged.(3.2)
+Demand for Money (L): is demand to hold real money balances measured in terms of purchasing
+power over goods and services. (9.2)
+Deposit multiplier: increase in bank deposits as the result of an increase in monetary base. (8.5)
+Depreciation of the national currency: a decline in the value of the currency relative to other
+national currencies, which results in a rise in the domestic price of foreign currencies. (9.3)
+Devaluation (revaluation): a reduction (increase) in the international value of the domestic currency. (12.3)
+Discretionary fiscal policy: changes in net tax rates and government expenditure intended to offset
+persistent autonomous expenditure shocks and stabilize aggregate expenditure and output. (7.5)
+Disinflation: a persistent fall in the inflation rate. (11.6)
+Disposable income (YD): national income minus net taxes. (7.2)
+E-monies: are multi-purpose pre-paid payment cards, and stored-value cards and gift cards for
+purchases at specific companies. (8.2)
+E-payments: payments made using mobile access to bank accounts eg. by internet ot telephone.
+(8.2)
+Economic equity: the distribution of well-being among members of the economy. (2.2)
+Economic growth: an increase in real GDP. (4.1)
+Economic growth: the annual percentage change in real GDP or per capita real GDP. (13.1)
+Economic recession: national output falls below the economy’s capacity output. (1.6)
+Economy-wide PPF: the set of goods and services combinations that can be produced in the
+economy when all available productive resources are in use. (1.5)
+375
+Effective lower bound (ELB): A bank’s policy interest rate cannot be set below a small positive
+number. (10.4)
+Employment rate: percent of the population 15 years of age and over that is employed. (4.1)
+Employment: number of adults employed full-time and part-time and self-employed. (4.1)
+Endogenous growth: growth determined economic behaviour and policy within the model. (13.5)
+Equilibrium GDP: AD = AS, planned expenditure equals current output and provides business
+revenues that cover current costs including expected profit. (5.1)
+Equilibrium price: the price at which quantity demanded equals quantity supplied. (3.2)
+Excess demand: amount by which quantity demanded exceeds the quantity supplied at the current
+price. (3.2)
+Excess supply: amount by which quantity supplied exceeds the quantity demanded at the current
+price. (3.2)
+Exchange rate regime: the policy choice that determines how foreign exchange markets operate.
+(12.3)
+Exchange rate target: monetary policy maintains a fixed price for foreign currency in terms of
+domestic currency. (10.3)
+Exogenous variable: a variable with a value determined outside the model. (13.5)
+Expenditure-based nominal GDP: sum of the market value of all the final goods and services
+bought in a given time period, say one year. (4.4)
+Fiat money: money the government has declared as legal tender. (8.1)
+Final goods and services: goods and services are purchased by the ultimate users. (4.4)
+Financial accounts: record of international flows of funds arising from ineternational purchases
+and sales of real and financial assets. (12.1)
+Financial intermediary: a business that specializes in bringing borrowers and lenders together.
+(8.3)
+Financial panic: a loss of confidence in banks and rush to withdraw cash. (8.4)
+Financial portfolio: a mixed holding of money and other financial assets, such as bonds and
+equities, structured to balance expected return and risk. (9.2)
+376 Glossary
+Fintech: the rapidly growing, innovative, applications of computer and internet technologies to
+facilitate the flow of payments and financial information. (8.1)
+Fiscal austerity: cuts in government expenditure and /or increases in taxes aimed at improving the
+government’s budget balance. (7.4)
+Fiscal policy: government expenditure and tax changes designed to influence AD. (5.6)
+Fixed exchange rate: an exchange rate set by government policy that does not change as a result
+of changes in market conditions. (12.3)
+Flexible exchange rates: foreign exchange rates as determined by the supply and demand in the
+foreign exchange market without central bank intervention. (12.3)
+Foreign exchange rate: the domestic currency price of a unit of foreign currency. (9.3)
+Forward guidance: information on the timing of future changes in the central bank’s interest rate
+setting. (10.4)
+Frictional unemployment: a result of the time involved in adjusting to changing labour force and
+employment opportunities. (4.1)
+Full employment output Yp: Yp = (number of workers at full employment)×(output per worker).
+(1.6)
+GDP deflator: index of current final output prices relative to base year prices. (4.5)
+GDP (Y): the national accounts measure of the sum of actual expenditure in the economy. (6.2)
+Government budget: planned government spending and revenue. (7.3)
+Government expenditure (G): government spending on currently produced goods and services.
+(7.2)
+Growth accounting: measurement of the contributions of labour, capital, and technology to
+growth in output. (13.2)
+Growth in potential output (YP): the result of growth in full employment labour and capital inputs
+combined with improvements in technology. (5.3)
+High (low) frequency data: series with short (long) intervals between observations. (2.1)
+Income-based GDP: sum of the factor costs of production of all goods and services plus the net
+in direct taxes included in market price. (4.4)
+377
+Index number: value for a variable, or an average of a set of variables, expressed relative to a
+given base value. (2.1)
+Induced expenditure (c−m)Y: planned consumption and imports expenditures that change when
+income changes. (6.2)
+Inferior good: a good for which demand falls in response to higher incomes. (3.4)
+Inflation (deflation) rate: the annual percentage increase (decrease) in the level of consumer
+prices. (2.1)
+Inflation rate target: monetary policy objective defined as an announced target inflation rate.
+(10.3)
+Inflation: a persistent rise in the general price level. (4.1)
+Inflationary gap: the amount by which actual real GDP exceeds potential GDP. (5.4)
+Innovation: the application of new knowledge into production techniques. (13.4)
+Interest rate: the current market rate paid to lenders or charged to borrowers. (9.1)
+Intermediate inputs: services, materials, and components purchased from other businesses and
+used in the production of final goods. (4.4)
+Invention: the discovery of new knowledge. (13.4)
+Investment function, I = I(i): explains the level of planned investment expenditure at each interest
+rate. (9.4)
+Labour force: adults employed plus those not employed but actively looking for work. (4.1)
+Legal tender: money that by law must be accepted as a means of payment. (8.1)
+Liquidity: the cost, speed, and certainty with which asset values can be converted into cash. (8.3)
+Longitudinal data: follow the same units of observation through time. (2.1)
+Macroeconomics: the study of the economy as a complete system that determines national output,
+employment and prices. (1.1)
+Marginal product: the change in total output caused by a change of one unit in the input of that
+factor to production. (13.3)
+Marginal propensity to consume (mpc = c = ∆C/∆Y): the change in consumption expenditure
+378 Glossary
+caused by a change in income. (6.2)
+Marginal propensity to import (mpm = m = ∆IM/∆Y): the change in imports caused by a change
+in income. (6.2)
+Market demand: the horizontal sum of individual demands. (3.7)
+Market value of output≡total expenditure≡market value of factor services≡household income.
+(4.3)
+Means of payment: a commodity or token generally accepted in payment for goods and services
+or the repayment of debt. (8.1)
+Microeconomics: the study of individual behaviour in the context of scarcity. (1.1)
+Mixed economy: goods and services are supplied both by private suppliers and government. (1.1)
+Model: a formalization of theory that facilitates scientific inquiry. (1.2)
+Monetary base (MB): legal tender comprising notes and coins in circulation plus the cash held by
+the banks. (8.5)
+Monetary policy instrument: the monetary variable the central bank manipulates in pursuit of its
+policy target. (10.3)
+Monetary policy: central bank action to control inflation and support economic growth through
+control of the money supply, interest rates, and exchange rates to change aggregate demand and
+economic performance. (10.1)
+Monetary policy: changes in interest rates and money supply designed to influence AD. (5.6)
+Monetary policy rule: central bank interest rate setting based on inflation rate and output gap
+targets. (10.2)
+Monetary policy indicators: variables that provide information about the stimulus or restraint
+coming from the central bank’s policy. (10.5)
+Money supply target: a central bank adjusts interest rates and the monetary base to control the
+nominal money supply, or the rate of growth of the nominal money supply. (10.3)
+Money supply: notes and coin in circulation outside banks plus bank deposits. (8.2, 8.5)
+Money supply: the means of payment in the economy, namely currency (notes and coin) in circulation outside the banks and bank deposits. (8.1)
+379
+Moral suasion: a central bank persuades and encourages banks to follow its policy initiatives and
+guidance. (10.4)
+Multiplier (∆Y/∆A): the ratio of the change in equilibrium income Y to the change in autonomous
+expenditure A that caused it. (6.4)
+NAIRU: the ‘non-accelerating inflation rate of unemployment’ that corresponds to NF at YP. (11.2)
+National Accounts: a framework for measuring national income, GDP, based on expenditures on
+goods and services and incomes earned. (4.3)
+Natural unemployment rate: the unemployment rate at “full employment”. (4.1)
+Natural unemployment rate: the unemployment rate that corresponds to potential GDP. (5.2)
+Net interest income: the excess of loan interest earned over deposit interest paid. (8.3)
+Net taxes: taxes on incomes minus transfer payments. (7.2)
+Neutral rate of interest: the interest rate that, in the central bank’s judgment, is consistent with
+actual real GDP equal to potential real GDP inflation at its target. (10.4)
+Net Exports: balance of trade in goods and services in the current account of the balance of
+payments. (12.1)
+Nominal exchange rate (er): the domestic currency price of a unit of foreign currency. (12.1)
+Nominal GDP: the output of final goods and services, the money incomes generated by the production of that output, and expenditure on the sale of that output measured at current prices in a
+specific time period. (4.4)
+Normal good: a good for which demand increases in response to higher incomes. (3.4)
+Normative economics: offers recommendations that incorporate value judgments. (2.2)
+Official exchange reserves: government foreign currency holdings managed by the central bank.
+(12.3)
+Official financing: balance of payments entry that records changes in government holdings of
+foreign currencies. (12.3)
+Open market operation: central bank purchases or sales of government securities in the open
+financial market. (10.2)
+Opportunity cost: what must be sacrificed when a choice is made. (1.3)
+380 Glossary
+Output gap: the difference between actual output and potential output. (5.4)
+Overnight rate: the interest rate large financial institutions receive or pay on loans from one day
+until the next. (10.3)
+Participation rate: percent of the population that is either working or unemployed. (4.1)
+Per capita real GDP: real GDP per person. (4.6)
+Percentage change: [(change in value)/(original value)]×100. (2.1)
+Perfect capital mobility: when very small differences in expected returns cause very large international flows of funds. (12.1)
+Positive economics: studies objective or scientific explanations of how the economy functions.
+(2.2)
+Potential output: the real GDP the economy can produce on a sustained basis with current labour
+force, capital and technology without generating inflationary pressure on prices. (5.2, 11.2)
+Present value is the discounted value of future payments. (9.1)
+Price controls: government rules or laws that inhibit the formation of market determined prices.
+(3.7)
+Price index: a measure of the price level in one year compared with prices in a base year. (4.1)
+Price level: a measure of the average prices of all goods and services produced in the economy.
+(4.1)
+Price of a marketable bond: the current price at which the bond trades in the bond market. (9.1)
+Primary budget balance: the difference between a government’s net tax revenues at Yp and its
+program expenditures. (11.5)
+Prime lending rate: the base for setting the interest rates charged by banks on loans and lines of
+credit. (10.3)
+Production function: outputs determined by technology and inputs of labour and capital. (11.2)
+Production possibility frontier (PPF): the combination of goods that can be produced using all
+resources available. (1.4)
+Productivity of labour: the output of goods and services per worker. (1.6)
+381
+Productivity: output per unit of input. (11.2)
+Public debt (PD): the outstanding stock of government bonds issued to finance government past
+budget deficits. (7.6)
+Public debt ratio (PD/Y): the ratio of outstanding government debt to GDP. (7.6, 11.5)
+Quantitative easing: central bank purchases of financial assets to increase its asset holdings and
+the monetary base. (10.4, 11.6)
+Quantity demanded: the amount purchased at a particular price. (3.2)
+Quantity supplied: the amount supplied at a particular price. (3.2)
+Quotas: are physical restrictions on output. (3.7)
+Rate of economic growth: the annual percentage change in real GDP. (4.1)
+Real exchange rate: the relative price of goods and services from different countries measured in
+a common currency. (12.1)
+Real GDP: the quantity of final goods and services produced by the economy in a specified time
+period. (4.1)
+Real money supply (M/P): the nominal money supply M divided by the price level P. (9.2)
+Real price: the actual price adjusted to a base year value using the consumer price index, the CPI.
+(2.1)
+Recession: decline in economic activity, often defined as two consecutive quarters of negative
+growth in real GDP. (4.2)
+Recessionary gap: amount by which actual real GDP (Y) is less than potential GDP (Yp). (5.4)
+Regression line: representation of the average relationship between two variables in a scatter
+diagram. (2.2)
+Repeated cross-section data: cross-section data recorded at regular or irregular intervals. (2.1)
+Required reserve ratio: a legal minimum ratio of cash reserves to deposits. (10.2)
+Reserve ratio (rr): the ratio of cash reserves to deposit liabilities held by banks. (8.4)
+Short run: a time frame in which factor prices, supplies of factors of production, and technology
+are fixed by assumption. (5.1)
+382 Glossary
+Short run production function: the relationship between the inflation rate and the level of real
+GDP. (11.2)
+Short-run equilibrium output: Aggregate expenditure and current output are equal (Y = AE).
+(6.3)
+Solow residual: the growth in real GDP or per capita real GDP not caused by growth in factor
+inputs, but attributed to improved technology. (13.2)
+SPRA: A Bank of Canada purchase of securities one day combined with an agreed resale of the
+securities the next day. (10.3)
+SRA: A Bank of Canada sale of securities one day combined with an agreed repurchase of the
+securities the next day. (10.3)
+Standard of deferred payments: the units in which future financial obligations are measured.
+(8.1)
+Store of value: an asset that carries purchasing power forward in time for future purchases. (8.1)
+Structural budget balance (SBB): the government budget balance at potential output. (7.4)
+Structural primary government balance (SPBB = tYP −G): the difference between net tax revenue at YP and government program expenditure. It excludes interest payments on the public debt
+and the effect of output gaps. (11.5)
+Structural unemployment: caused by changes in economic structure relative to labour characteristics. (4.1)
+Substitute goods: when a price reduction (rise) for a related product reduces (increases) demand
+for the primary product, then it is a substitute for the primary product. (3.4)
+Supply curve: a graphical expression of the relationship between price and quantity supplied with
+all other influences unchanged. (3.3)
+Supply: the quantities of a good or service that sellers are willing to sell at each possible price
+with all other influences on supply reaming unchanged. (3.2)
+Sustained growth in per capita real GDP: improvements in technology overcome the diminishing returns to increases in the capital to labour ratio. (13.4)
+Taylor rule: explains the central bank’s policy interest rate settings based on the economy’s performance relative to the bank’s inflation and output targets. (10.4)
+Theory: a logical view of how things work. Frequently formulated on the basis of observation.
+383
+(1.2)
+Time-series: a set of measurements made sequentially at different points in time. (2.1)
+Token money: convertible claims on commodity money. (8.1)
+Total factor productivity (T FP): measures by the economy’s real output relative to the combined
+inputs of labour and capital, the total factor inputs to production. (13.2)
+Transmission mechanism: links money, interest rates, and exchange rates through financial markets to output and employment and prices. (9.4)
+Unemployment rate is the number of unemployed persons as a percentage of the labour force.
+(4.1)
+Unemployment: number of adults not working but actively looking for work. (4.1)
+Unit of account: the standard in which prices are quoted and accounts are kept. (8.1)
+Unplanned changes in business inventories: indicators of disequilibrium between planned and
+actual expenditures – incentives for businesses to adjust levels of employment and output (Y). (6.3)
+Value added: the difference between the market value of the output of the business and the cost of
+inputs purchased from other businesses. (4.4)
+Variables: measures that can take on different values. (2.1)
+Very long run: the time required for changes to occur in the stock of capital, the size of the labour
+force, and the technology of production. (13.2)
+Wealth effect: the change in expenditure caused by a change in real wealth. (9.4)
+Yield on a bond: the return to a bond holder expressed as an annual percentage. (9.1)
+Zero-sum game: an interaction where the gain to one party equals the loss to another party. (

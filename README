@@ -1,0 +1,49 @@
+Nathan Lado
+Final Project
+Natural Language Processing for Data Analytics
+December 6th, 2021
+
+
+Data Used: 
+-opensource economics textbooks - textbooks.txt, t1key.txt
+-Federal Reserve Economics Papers - FRBAbstracts.txt
+-San Francisco Fed Papers - FRSF.txt, combined.txt
+-Federal Reserve Beige Book - BeigeBook.txt, combined.txt 
+-FRED database economic variables - ev_txt.txt
+-Peterson Institute for International Economics - PIIE.txt, combined.txt
+
+Data Collection:
+
+get_FRED_vars.ipynb - This notebook is used for downloading the variables from FRED, the St. Louis Federal Reserve Database of economic data. This code produces stlfedkey.txt
+
+extract_data.ipynb - This notebook contains all the code to download the abstracts and papers from a variety of websites. Produces a variety of text files including combined.txt, PIEE.txt, BeigeBook.txt, FRSF.txt
+
+Identification of Economic Variables: 
+
+getEVs.ipynb - Contains code to process economic text data and create input for 1.) the BERT-Relation-Extraction model and 2.) the economic entity identifier. The output for the former is econSents.csv. The output for the latter is ent_train and ent_valid, which are two datasets. I used some of the code from BERT-Relation-Extraction to tag economic variables.
+
+pretrainBERTevid.ipynb - meant to run on google colab - BERTevid is titled this to signify BERT economic variable id. This code trains a RoBERTa model on economics texts by masking words. Models are saved and then used for BERTevid.ipynb. While this was not a central part of the project, interesting results were obtained through this and it was the most successful part of the project. Early iterations used text from CNN as well. When these were included in the dataset, the model predicted terrorism as the noun for many unrelated inputs. This behavior went away completely when the CNN text was taken out. 
+
+BERTevid.ipynb - meant to run on google colab - This code trains a model to predict words belonging to economic variables. While the model runs correctly, it has not effectively predicted any variables. As a result, it was not linked to BERT-Relation-Extraction.
+
+Extraction of Economic Relationships-
+
+I used the code from https://github.com/plkmo/BERT-Relation-Extraction which was in turn and implementation of a paper done by Google Research: https://arxiv.org/pdf/1906.03158.pdf. I made few modifications to the original code except to allow for saving from google colab to google drive during the pretraining and training processes. I also modified the code so that it used the output of getEVs.ipynb. The output of the model from BERTevid was never connected to this model as it performs much worse than the simple method in getEVs (based on observation). While a more detailed description of the models and approach can be found in the original, the general approach can be described as pretraining BERT on economic text by training BERT to maximize the cosine similarity for sentences with the same entities.  This model is then finetuned on the entity pairs and relationships from the dataset SemEval2010 Task 8. From here I used the econSents.csv as input into the relationship prediction stage. The output is labeled as 
+
+
+Challenges and Interesting Points
+
+-While I have done projects on Colab Pro before, never with more than 1 step. This, in addition to the cutoff at 12 hours made the saving and loading components of the project central and this took up a lot of time, likely due to inexperience. I have tried to make sure all the dependencies work, but please let me know if there are any issues.
+
+-As previously mentioned, the pretraining process for BERTevid was surprisingly successful. The choice of pretraining text was clearly important and had a big effect on what the model could predict.
+
+-Statements regarding the difficulty of identifying economic variables were found to be true. Central to this difficulty were three related points. 1.) proper nouns are usually not what  we are looking for. This is unfortunate as there are many good tools for identifying proper nouns or named entities. 2.) there are many modifier words that are important for the meaning of the phrase. For example long-term bonds are very different from short-term bonds so we can't throw out the beginning of the term. At the same time, these words long-term and short-term can show up in many non-economic contexts. This is true for many terms. 3.) Very hard to find negative examples to train a classifier. Its very hard to say that something is not an economic  variable without manually labelling it. The only exception are texts that are so far from economics that the distribution of words and language is entirely different. 4.) There are no labelled data sets I could find. Even the Federal Reserve included different variables in their papers and reports than they had in the FRED database.
+
+ 
+
+
+
+
+
+
+
