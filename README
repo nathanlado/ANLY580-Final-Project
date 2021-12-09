@@ -26,9 +26,14 @@ pretrainBERTevid.ipynb - meant to run on google colab - BERTevid is titled this 
 
 BERTevid.ipynb - meant to run on google colab - This code trains a model to predict words belonging to economic variables. While the model runs correctly, it has not effectively predicted any variables. As a result, it was not linked to BERT-Relation-Extraction.
 
+
 Extraction of Economic Relationships-
 
-I used the code from https://github.com/plkmo/BERT-Relation-Extraction which was in turn and implementation of a paper done by Google Research: https://arxiv.org/pdf/1906.03158.pdf. I made few modifications to the original code except to allow for saving from google colab to google drive during the pretraining and training processes. I also modified the code so that it used the output of getEVs.ipynb. The output of the model from BERTevid was never connected to this model as it performs much worse than the simple method in getEVs (based on observation). While a more detailed description of the models and approach can be found in the original, the general approach can be described as pretraining BERT on economic text by training BERT to maximize the cosine similarity for sentences with the same entities.  This model is then finetuned on the entity pairs and relationships from the dataset SemEval2010 Task 8. From here I used the econSents.csv as input into the relationship prediction stage. The output is labeled as 
+I used the code from https://github.com/plkmo/BERT-Relation-Extraction which was in turn and implementation of a paper done by Google Research: https://arxiv.org/pdf/1906.03158.pdf. I made few modifications to the original code except to allow for saving from google colab to google drive during the pretraining and training processes. I also modified the code so that it used the output of getEVs.ipynb. The output of the model from BERTevid was never connected to this model as it performs much worse than the simple method in getEVs (based on observation). While a more detailed description of the models and approach can be found in the original, the general approach can be described as pretraining BERT on economic text by training BERT to maximize the cosine similarity for sentences with the same entities.  This model is then finetuned on the entity pairs and relationships from the dataset SemEval2010 Task 8. From here I used the econSents.csv as input into the relationship prediction stage. The output is labeled as econrelationships.txt and are located in the SAVE folder.
+
+Though much of the code is unchanged. I did alter several stages so that models were saved to google drive. This was done such that it would maximize the likelihood of a save before I was logged out. 
+
+I also modified the main_task function and relabelled it main_taks_EV. I have included both so that it is clear what I added. I altered main_task so that it would take in the input provided by econsents.csv and put out econrelationships.csv.
 
 
 Challenges and Interesting Points
@@ -39,7 +44,7 @@ Challenges and Interesting Points
 
 -Statements regarding the difficulty of identifying economic variables were found to be true. Central to this difficulty were three related points. 1.) proper nouns are usually not what  we are looking for. This is unfortunate as there are many good tools for identifying proper nouns or named entities. 2.) there are many modifier words that are important for the meaning of the phrase. For example long-term bonds are very different from short-term bonds so we can't throw out the beginning of the term. At the same time, these words long-term and short-term can show up in many non-economic contexts. This is true for many terms. 3.) Very hard to find negative examples to train a classifier. Its very hard to say that something is not an economic  variable without manually labelling it. The only exception are texts that are so far from economics that the distribution of words and language is entirely different. 4.) There are no labelled data sets I could find. Even the Federal Reserve included different variables in their papers and reports than they had in the FRED database.
 
- 
+-Overall this project did not accomplish its goals. As previously stated, the main issue was identifying appropriate text documents as well as identifying economic variables.
 
 
 
